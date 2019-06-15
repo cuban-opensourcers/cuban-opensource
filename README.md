@@ -22,8 +22,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Web Development
 
 ### PHP
-- [HierarchyTrait](https://github.com/daxslab/andaniel05/HierarchyTrait)
-- [ObjectCollection](https://github.com/daxslab/andaniel05/ObjectCollection)
+- [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait)
+- [ObjectCollection](https://github.com/andaniel05/ObjectCollection)
 - [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags)
 - [PyramidalTests](https://github.com/andaniel05/PyramidalTests)
 - [yii2-cas-client](https://github.com/daxslab/yii2-cas-client)
