@@ -12,6 +12,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Videomorph](https://github.com/videomorph-dev/videomorph)
 
 ## Repository management
+- [Sheldon](https://github.com/jmbatistav/sheldon)
 - [Tinp](https://github.com/daxslab/tinp-core)
 
 ## System
