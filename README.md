@@ -31,7 +31,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [yii2-tagged-view](https://github.com/daxslab/yii2-tagged-view)
 - [yii2-thumbnailer](https://github.com/daxslab/yii2-thumbnailer)
 - [yii2-uploader-behavior](https://github.com/daxslab/yii2-uploader-behavior)
-- [yii2-thumbnailer](https://github.com/daxslab/yii2-thumbnailer)
 - [yii2-website-module](https://github.com/daxslab/yii2-website-module)
 - [Wordpress Microplugins](https://plugins.svn.wordpress.org/microplugins)
 
