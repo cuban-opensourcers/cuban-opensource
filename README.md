@@ -17,6 +17,9 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Sheldon](https://github.com/jmbatistav/sheldon): Herramienta para la descarga de repositorios de distribuciones basadas en Debian GNU/Linux utilizando apt-mirror.
 - [Tinp](https://github.com/daxslab/tinp-core): tinP is not PSC. Debian based customized repository creator. Core and CLI.
 
+## SDK
+- [Div Software Solutions](https://divengine.com): Open Source SDK (a set of libs, frameworks and tools for software development)
+
 ## System
 - [Multicp](https://github.com/daxslab/multicp): Copy files to multiple destinations faster.
 
