@@ -3,42 +3,41 @@
 Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba...
 
 ## Android Apps
-- [FotoRecarga](https://github.com/daxslab/fotorecarga)
-- [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica)
+- [FotoRecarga](https://github.com/daxslab/fotorecarga): Recargue facilmente su saldo móvil desde los cupones de ETECSA.
+- [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica): Implementación de la Escala Geriátrica de Evaluación Funcional Global. Instrumento que permite reconocer precozmente la autonomía del adulto mayor.
 
 ## Frameworks
-- [GluePHP](https://github.com/GlueApps/GluePHP)
-- [mailProc](https://github.com/daxslab/mailProc)
+- [GluePHP](https://github.com/GlueApps/GluePHP): framework para el desarrollo de aplicaciones web una sola página empleando el paradigma de programación dirigida por eventos.
+- [mailProc](https://github.com/daxslab/mailProc): Mail service microframework.
 
 ## Multimedia
-- [Videomorph](https://github.com/videomorph-dev/videomorph)
+- [Videomorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
 
 ## Repository management
-- [Sheldon](https://github.com/jmbatistav/sheldon)
-- [Tinp](https://github.com/daxslab/tinp-core)
+- [Sheldon](https://github.com/jmbatistav/sheldon): Herramienta para la descarga de repositorios de distribuciones basadas en Debian GNU/Linux utilizando apt-mirror.
+- [Tinp](https://github.com/daxslab/tinp-core): tinP is not PSC. Debian based customized repository creator. Core and CLI.
 
 ## System
-- [Multicp](https://github.com/daxslab/multicp)
+- [Multicp](https://github.com/daxslab/multicp): Copy files to multiple destinations faster.
 
 ## Web Development
 
 ### PHP
-- [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait)
-- [ObjectCollection](https://github.com/andaniel05/ObjectCollection)
-- [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags)
-- [PyramidalTests](https://github.com/andaniel05/PyramidalTests)
-- [yii2-cas-client](https://github.com/daxslab/yii2-cas-client)
-- [yii2-contact-form-module](https://github.com/daxslab/yii2-contact-form-module)
-- [yii2-tagged-view](https://github.com/daxslab/yii2-tagged-view)
-- [yii2-thumbnailer](https://github.com/daxslab/yii2-thumbnailer)
-- [yii2-uploader-behavior](https://github.com/daxslab/yii2-uploader-behavior)
-- [yii2-website-module](https://github.com/daxslab/yii2-website-module)
-- [Wordpress Microplugins](https://plugins.svn.wordpress.org/microplugins)
+- [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait): Añade funcionalidad jerárquica a clases.
+- [ObjectCollection](https://github.com/andaniel05/ObjectCollection): Clase que representa una colección de objetos del mismo tipo.
+- [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags): Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.
+- [PyramidalTests](https://github.com/andaniel05/PyramidalTests): Extends applications of PHPUnit to the BDD field.
+- [yii2-contactform-module](https://github.com/daxslab/yii2-contactform-module): Yii2 module to include contact forms
+- [yii2-taggedview](https://github.com/daxslab/yii2-tagged-view): Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.
+- [yii2-thumbnailer](https://github.com/daxslab/yii2-thumbnailer): Yii2 extension to generate (any size) thumbnails for any image on the fly.
+- [yii2-uploader-behavior](https://github.com/daxslab/yii2-uploader-behavior): Yii2 extension to simplifly the process of uploading a file using a behavior that can be attached to models.
+- [yii2-website-module](https://github.com/daxslab/yii2-website-module): Yii2 module to create blog type websites without restricting what you can do within a Yii2 application.
+- [Wordpress Microplugins](https://plugins.svn.wordpress.org/microplugins): Añade funcionalidad al sitio mediante código desde la administración.
 
 ### Python
-- [web2py-media-gallery](https://github.com/daxslab/web2py-media-gallery)
-- [web2py-no-captcha-security](https://github.com/daxslab/web2py-no-captcha-security)
-- [web2py-simple-seo](https://github.com/daxslab/web2py-simple-seo)
-- [web2py-spia](https://github.com/daxslab/web2py-spia)
-- [web2py-thumbnails](https://github.com/daxslab/web2py-thumbnails)
-- [web2py-typehead](https://github.com/daxslab/web2py-typehead)
+- [Spia](https://github.com/daxslab/spia): Simple Python internacionalization API.
+- [web2py-media-gallery](https://github.com/daxslab/web2py-media-gallery): Global media gallery plugin for web2py
+- [web2py-no-captcha-security](https://github.com/daxslab/web2py-no-captcha-security): No-Captcha security plugin for the web2py framework to enable bot protection using no-captcha techniques.
+- [web2py-simple-seo](https://github.com/daxslab/web2py-simple-seo): Simple SEO metadata plugin for web2py including Open Graph and Twitter Cards.
+- [web2py-thumbnails](https://github.com/daxslab/web2py-thumbnails): Thumbnails plugin for the web2py framework.
+- [web2py-typeahead](https://github.com/daxslab/web2py-typeahead): typeahead.js autocompletion widget for web2py framework.
