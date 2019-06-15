@@ -6,6 +6,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica)
 
 ## Frameworks
+- [GluePHP](https://github.com/GlueApps/GluePHP)
 - [mailProc](https://github.com/daxslab/mailProc)
 
 ## Multimedia
