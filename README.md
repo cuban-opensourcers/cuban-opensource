@@ -1,5 +1,6 @@
-# cuban-open-source
-Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba..
+# Cuban Open Source Projects
+
+Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba...
 
 ## Android Apps
 - [FotoRecarga](https://github.com/daxslab/fotorecarga)
