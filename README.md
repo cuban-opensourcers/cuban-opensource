@@ -5,8 +5,9 @@
 Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba...
 
 ## Android Apps
-- [FotoRecarga](https://github.com/daxslab/fotorecarga): Recargue facilmente su saldo móvil desde los cupones de ETECSA.
+- [Es WIFI_ETECSA?](https://github.com/daxslab/es_wifi_etecsa): Checks for security vulnerabilities while connecting to WIFI_ETECSA.
 - [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica): Implementación de la Escala Geriátrica de Evaluación Funcional Global. Instrumento que permite reconocer precozmente la autonomía del adulto mayor.
+- [FotoRecarga](https://github.com/daxslab/fotorecarga): Recargue facilmente su saldo móvil desde los cupones de ETECSA.
 
 ## Frameworks
 - [GluePHP](https://github.com/GlueApps/GluePHP): framework para el desarrollo de aplicaciones web una sola página empleando el paradigma de programación dirigida por eventos.
