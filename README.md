@@ -28,6 +28,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Web Development
 
 ### PHP
+- [fastcode-ci](https://github.com/cjamcu/fastcode-ci): CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
+- [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
 - [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait): Añade funcionalidad jerárquica a clases.
 - [ObjectCollection](https://github.com/andaniel05/ObjectCollection): Clase que representa una colección de objetos del mismo tipo.
 - [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags): Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.
