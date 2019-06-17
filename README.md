@@ -40,6 +40,13 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [GluePHP](https://github.com/GlueApps/GluePHP): framework para el desarrollo de aplicaciones web una sola página empleando el paradigma de programación dirigida por eventos.
 - [mailProc](https://github.com/daxslab/mailProc): Mail service microframework.
 
+## Internet of Things (IoT)
+- [vmq_cloudwatch_metrics](https://github.com/codeadict/vmq_cloudwatch_metrics): [VerneMQ](https://www.vernemq.com) plugin to send broker metrics to AWS CloudWatch.
+- [vernemq_kinesis](https://github.com/codeadict/vernemq_kinesis): [VerneMQ](https://www.vernemq.com) plugin that aggregates and sends MQTT messages to AWS Kinesis.
+
+## Monitoring & Observability
+- [lager_logentries](https://github.com/codeadict/lager_logentries): Backend for Lager (the Erlan logger) to send logs to Logentries (https://logentries.com) via Token TCP.
+
 ## Multimedia
 - [Videomorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
 
@@ -81,7 +88,3 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ### Ruby
 - [kings-landing](https://github.com/codeadict/kings-landing): A modern, simple and customizable landing page dedicated to early customer acquisition for frugal entrepreneurs. Think it as an open-source alternative to LaunchRock without spending 5 bucks monthly.
 
- ### Erlang
- - [vmq_cloudwatch_metrics](https://github.com/codeadict/vmq_cloudwatch_metrics): [VerneMQ](https://www.vernemq.com) plugin to send broker metrics to AWS CloudWatch.
- - [vernemq_kinesis](https://github.com/codeadict/vernemq_kinesis): [VerneMQ](https://www.vernemq.com) plugin that aggregates and sends MQTT messages to AWS Kinesis.
- - [lager_logentries](https://github.com/codeadict/lager_logentries): Backend for Lager (the Erlang logger) to send logs to Logentries (https://logentries.com) via Token TCP.
