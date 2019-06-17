@@ -7,7 +7,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Android Apps
 - [Es WIFI_ETECSA?](https://github.com/daxslab/es_wifi_etecsa): Checks for security vulnerabilities while connecting to WIFI_ETECSA.
 - [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica): Implementación de la Escala Geriátrica de Evaluación Funcional Global. Instrumento que permite reconocer precozmente la autonomía del adulto mayor.
-- [FotoRecarga](https://github.com/daxslab/fotorecarga): Recargue facilmente su saldo móvil desde los cupones de ETECSA.
+- [FotoRecarga](https://github.com/daxslab/fotorecarga): Recargue facilmente su saldo móvil desde los cupones de ETECS
+- [ShakeItOff](https://github.com/jadolg/ShakeItOff): Apague la pantalla de su teléfono sacudiéndolo.
 - [UCIntlm](https://github.com/jadolg/UCIntlm) Proxy ntlm para android (no requiere root).
 
 ## API
@@ -28,8 +29,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [amake](https://github.com/pavelmc/amake) you loves arduino but hate the Arduino IDE, no problem you can use your preffered editor and use amake under the hood to compile and upload the code. (Linux only)
 - [carrito](https://github.com/pavelmc/carrito) & [carrito-control](https://github.com/pavelmc/carrito-control) a cuban hombrewed small car project from scrap parts.
 - [arduino-arcs](https://github.com/pavelmc/arduino-arcs) Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment.
-- [Multi Porobe SWR meter](https://github.com/pavelmc/multi-probe-swr-meter) a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic mode to control ICOM antenna tuners 
-
+- [Multi Porobe SWR meter](https://github.com/pavelmc/multi-probe-swr-meter) a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic mode to control ICOM antenna tuners. 
 
 ## Frameworks
 - [GluePHP](https://github.com/GlueApps/GluePHP): framework para el desarrollo de aplicaciones web una sola página empleando el paradigma de programación dirigida por eventos.
