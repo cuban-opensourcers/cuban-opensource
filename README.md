@@ -55,6 +55,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Web Development
 
+### Javascript
+ #### ReactJs
+  - [react-hooks-toolbox](https://github.com/apenab/react-hooks-toolbox): Collection of reactjs hooks.
+  
 ### PHP
 - [fastcode-ci](https://github.com/cjamcu/fastcode-ci): CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
 - [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait): Añade funcionalidad jerárquica a clases.
@@ -75,6 +79,3 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [web2py-simple-seo](https://github.com/daxslab/web2py-simple-seo): Simple SEO metadata plugin for web2py including Open Graph and Twitter Cards.
 - [web2py-thumbnails](https://github.com/daxslab/web2py-thumbnails): Thumbnails plugin for the web2py framework.
 - [web2py-typeahead](https://github.com/daxslab/web2py-typeahead): typeahead.js autocompletion widget for web2py framework.
-### Javascript
- #### ReactJs
-  - [react-hooks-toolbox](https://github.com/apenab/react-hooks-toolbox): Collection of reactjs hooks.
