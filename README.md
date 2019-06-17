@@ -27,6 +27,9 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## System
 - [Multicp](https://github.com/daxslab/multicp): Copy files to multiple destinations faster.
 
+## API
+[rocketchat_API](https://github.com/jadolg/rocketchat_API) REST API wrapper for [Rocket.Chat](https://rocket.chat)
+
 ## Web Development
 
 ### PHP
