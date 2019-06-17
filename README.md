@@ -11,7 +11,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [UCIntlm](https://github.com/jadolg/UCIntlm) Proxy ntlm para android (no requiere root).
 
 ## API
-[rocketchat_API](https://github.com/jadolg/rocketchat_API) REST API wrapper for [Rocket.Chat](https://rocket.chat)
+- [rocketchat_API](https://github.com/jadolg/rocketchat_API) REST API wrapper for [Rocket.Chat](https://rocket.chat)
 
 ## Arduino & Pic related
 
