@@ -10,6 +10,27 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [FotoRecarga](https://github.com/daxslab/fotorecarga): Recargue facilmente su saldo móvil desde los cupones de ETECSA.
 - [UCIntlm](https://github.com/jadolg/UCIntlm) Proxy ntlm para android (no requiere root).
 
+## API
+[rocketchat_API](https://github.com/jadolg/rocketchat_API) REST API wrapper for [Rocket.Chat](https://rocket.chat)
+
+## Arduino & Pic related
+
+### Libraries
+
+- [Si5351](https://github.com/pavelmc/Si5351mcu) an alternative library for the Si5351 etherkit official one, very small and with more clean signals.
+- [FT-857D CAT control](https://github.com/pavelmc/FT857d) a library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects.
+- [Yatuli](https://github.com/pavelmc/Yatuli) Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer fot that.
+- [Bmux](https://github.com/pavelmc/BMux) you need a few buttons in youbr project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way.
+- [stepperUnipolar](https://github.com/pavelmc/stepperUnipolar) A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!)
+
+### Projects
+
+- [amake](https://github.com/pavelmc/amake) you loves arduino but hate the Arduino IDE, no problem you can use your preffered editor and use amake under the hood to compile and upload the code. (Linux only)
+- [carrito](https://github.com/pavelmc/carrito) & [carrito-control](https://github.com/pavelmc/carrito-control) a cuban hombrewed small car project from scrap parts.
+- [arduino-arcs](https://github.com/pavelmc/arduino-arcs) Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment.
+- [Multi Porobe SWR meter](https://github.com/pavelmc/multi-probe-swr-meter) a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic mode to control ICOM antenna tuners 
+
+
 ## Frameworks
 - [GluePHP](https://github.com/GlueApps/GluePHP): framework para el desarrollo de aplicaciones web una sola página empleando el paradigma de programación dirigida por eventos.
 - [mailProc](https://github.com/daxslab/mailProc): Mail service microframework.
@@ -26,9 +47,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## System
 - [Multicp](https://github.com/daxslab/multicp): Copy files to multiple destinations faster.
-
-## API
-[rocketchat_API](https://github.com/jadolg/rocketchat_API) REST API wrapper for [Rocket.Chat](https://rocket.chat)
 
 ## Web Development
 
@@ -53,20 +71,3 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [web2py-simple-seo](https://github.com/daxslab/web2py-simple-seo): Simple SEO metadata plugin for web2py including Open Graph and Twitter Cards.
 - [web2py-thumbnails](https://github.com/daxslab/web2py-thumbnails): Thumbnails plugin for the web2py framework.
 - [web2py-typeahead](https://github.com/daxslab/web2py-typeahead): typeahead.js autocompletion widget for web2py framework.
-
-### Arduino & Pic related
-
-#### Libraries
-
-- [Si5351](https://github.com/pavelmc/Si5351mcu) an alternative library for the Si5351 etherkit official one, very small and with more clean signals.
-- [FT-857D CAT control](https://github.com/pavelmc/FT857d) a library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects.
-- [Yatuli](https://github.com/pavelmc/Yatuli) Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer fot that.
-- [Bmux](https://github.com/pavelmc/BMux) you need a few buttons in youbr project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way.
-- [stepperUnipolar](https://github.com/pavelmc/stepperUnipolar) A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!)
-
-#### Projects
-
-- [amake](https://github.com/pavelmc/amake) you loves arduino but hate the Arduino IDE, no problem you can use your preffered editor and use amake under the hood to compile and upload the code. (Linux only)
-- [carrito](https://github.com/pavelmc/carrito) & [carrito-control](https://github.com/pavelmc/carrito-control) a cuban hombrewed small car project from scrap parts.
-- [arduino-arcs](https://github.com/pavelmc/arduino-arcs) Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment.
-- [Multi Porobe SWR meter](https://github.com/pavelmc/multi-probe-swr-meter) a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic mode to control ICOM antenna tuners 
