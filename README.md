@@ -63,7 +63,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Web Development
 
 ### Javascript
- #### ReactJs
+
+#### React.js
   - [react-hooks-toolbox](https://github.com/apenab/react-hooks-toolbox): Collection of reactjs hooks.
   
 ### PHP
