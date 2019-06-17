@@ -23,7 +23,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Si5351](https://github.com/pavelmc/Si5351mcu) an alternative library for the Si5351 etherkit official one, very small and with more clean signals.
 - [FT-857D CAT control](https://github.com/pavelmc/FT857d) a library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects.
 - [Yatuli](https://github.com/pavelmc/Yatuli) Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer fot that.
-- [Bmux](https://github.com/pavelmc/BMux) you need a few buttons in youbr project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way.
+- [Bmux](https://github.com/pavelmc/BMux) you need a few buttons in your project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way.
 - [stepperUnipolar](https://github.com/pavelmc/stepperUnipolar) A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!)
 
 ### Projects
