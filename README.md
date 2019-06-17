@@ -5,9 +5,11 @@
 Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba...
 
 ## Android Apps
+- [BankDroid](https://github.com/rlazom/BankDroid): Transfermovil messages' cool interpreter.
 - [Es WIFI_ETECSA?](https://github.com/daxslab/es_wifi_etecsa): Checks for security vulnerabilities while connecting to WIFI_ETECSA.
 - [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica): Implementación de la Escala Geriátrica de Evaluación Funcional Global. Instrumento que permite reconocer precozmente la autonomía del adulto mayor.
-- [FotoRecarga](https://github.com/daxslab/fotorecarga): Recargue facilmente su saldo móvil desde los cupones de ETECS
+- [FotoRecarga](https://github.com/daxslab/fotorecarga): Recargue facilmente su saldo móvil desde los cupones de ETECSA
+- [MetroTrans](https://github.com/aleguerra05/metro_trans): Transaction viewer for Transfermovil Cuban app.
 - [ShakeItOff](https://github.com/jadolg/ShakeItOff): Apague la pantalla de su teléfono sacudiéndolo.
 - [UCIntlm](https://github.com/jadolg/UCIntlm) Proxy ntlm para android (no requiere root).
 
