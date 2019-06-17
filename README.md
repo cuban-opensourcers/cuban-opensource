@@ -40,6 +40,13 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [GluePHP](https://github.com/GlueApps/GluePHP): framework para el desarrollo de aplicaciones web una sola página empleando el paradigma de programación dirigida por eventos.
 - [mailProc](https://github.com/daxslab/mailProc): Mail service microframework.
 
+## Internet of Things (IoT)
+- [vmq_cloudwatch_metrics](https://github.com/codeadict/vmq_cloudwatch_metrics): [VerneMQ](https://www.vernemq.com) plugin to send broker metrics to AWS CloudWatch.
+- [vernemq_kinesis](https://github.com/codeadict/vernemq_kinesis): [VerneMQ](https://www.vernemq.com) plugin that aggregates and sends MQTT messages to AWS Kinesis.
+
+## Monitoring & Observability
+- [lager_logentries](https://github.com/codeadict/lager_logentries): Backend for Lager (the Erlan logger) to send logs to Logentries (https://logentries.com) via Token TCP.
+
 ## Multimedia
 - [Videomorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
 
@@ -79,3 +86,9 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [web2py-simple-seo](https://github.com/daxslab/web2py-simple-seo): Simple SEO metadata plugin for web2py including Open Graph and Twitter Cards.
 - [web2py-thumbnails](https://github.com/daxslab/web2py-thumbnails): Thumbnails plugin for the web2py framework.
 - [web2py-typeahead](https://github.com/daxslab/web2py-typeahead): typeahead.js autocompletion widget for web2py framework.
+- [quotation_followup](https://github.com/codeadict/quotation_followup): Odoo (Formerly OpenERP) module to follow up quotations by mail.
+- [HTTP2COM](https://github.com/codeadict/HTTP2COM): Windows Service that makes bi-directional proxy between HTTP and Serial Port. Can be used for web apps to access the local hardware from the brwser.
+
+### Ruby
+- [kings-landing](https://github.com/codeadict/kings-landing): A modern, simple and customizable landing page dedicated to early customer acquisition for frugal entrepreneurs. Think it as an open-source alternative to LaunchRock without spending 5 bucks monthly.
+
