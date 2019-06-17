@@ -54,7 +54,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### PHP
 - [fastcode-ci](https://github.com/cjamcu/fastcode-ci): CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
-- [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
 - [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait): Añade funcionalidad jerárquica a clases.
 - [ObjectCollection](https://github.com/andaniel05/ObjectCollection): Clase que representa una colección de objetos del mismo tipo.
 - [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags): Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.
@@ -67,6 +66,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Wordpress Microplugins](https://plugins.svn.wordpress.org/microplugins): Añade funcionalidad al sitio mediante código desde la administración.
 
 ### Python
+- [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
 - [Spia](https://github.com/daxslab/spia): Simple Python internacionalization API.
 - [web2py-media-gallery](https://github.com/daxslab/web2py-media-gallery): Global media gallery plugin for web2py
 - [web2py-no-captcha-security](https://github.com/daxslab/web2py-no-captcha-security): No-Captcha security plugin for the web2py framework to enable bot protection using no-captcha techniques.
