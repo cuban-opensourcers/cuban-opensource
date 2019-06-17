@@ -33,6 +33,9 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [arduino-arcs](https://github.com/pavelmc/arduino-arcs) Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment.
 - [Multi Porobe SWR meter](https://github.com/pavelmc/multi-probe-swr-meter) a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic mode to control ICOM antenna tuners. 
 
+## Catalogs
+- [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
+
 ## Frameworks
 - [GluePHP](https://github.com/GlueApps/GluePHP): framework para el desarrollo de aplicaciones web una sola página empleando el paradigma de programación dirigida por eventos.
 - [mailProc](https://github.com/daxslab/mailProc): Mail service microframework.
@@ -66,7 +69,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Wordpress Microplugins](https://plugins.svn.wordpress.org/microplugins): Añade funcionalidad al sitio mediante código desde la administración.
 
 ### Python
-- [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
 - [Spia](https://github.com/daxslab/spia): Simple Python internacionalization API.
 - [web2py-media-gallery](https://github.com/daxslab/web2py-media-gallery): Global media gallery plugin for web2py
 - [web2py-no-captcha-security](https://github.com/daxslab/web2py-no-captcha-security): No-Captcha security plugin for the web2py framework to enable bot protection using no-captcha techniques.
