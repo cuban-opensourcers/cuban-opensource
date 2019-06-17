@@ -55,6 +55,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Web Development
 
+### Javascript
+ #### ReactJs
+  - [react-hooks-toolbox](https://github.com/apenab/react-hooks-toolbox): Collection of reactjs hooks.
+  
 ### PHP
 - [fastcode-ci](https://github.com/cjamcu/fastcode-ci): CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
 - [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait): Añade funcionalidad jerárquica a clases.
