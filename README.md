@@ -79,6 +79,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [yii2-uploader-behavior](https://github.com/daxslab/yii2-uploader-behavior): Yii2 extension to simplifly the process of uploading a file using a behavior that can be attached to models.
 - [yii2-website-module](https://github.com/daxslab/yii2-website-module): Yii2 module to create blog type websites without restricting what you can do within a Yii2 application.
 - [Wordpress Microplugins](https://plugins.svn.wordpress.org/microplugins): Añade funcionalidad al sitio mediante código desde la administración.
+- [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em) WordPress Framework con soporte en Español.
 
 ### Python
 - [Spia](https://github.com/daxslab/spia): Simple Python internacionalization API.
