@@ -36,6 +36,13 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Catalogs
 - [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
 
+
+## Database
+
+### Python/Qt
+
+- [q-guide](https://github.com/leolopez89/Q-Guide): Q-Guide is a frontend to the ETECSA numbers database.
+
 ## Frameworks
 - [GluePHP](https://github.com/GlueApps/GluePHP): framework para el desarrollo de aplicaciones web una sola página empleando el paradigma de programación dirigida por eventos.
 - [mailProc](https://github.com/daxslab/mailProc): Mail service microframework.
@@ -93,9 +100,3 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ### Ruby
 - [kings-landing](https://github.com/codeadict/kings-landing): A modern, simple and customizable landing page dedicated to early customer acquisition for frugal entrepreneurs. Think it as an open-source alternative to LaunchRock without spending 5 bucks monthly.
 
-
-## Database
-
-### Python/Qt
-
-- [q-guide](https://github.com/leolopez89/Q-Guide): Q-Guide is a frontend to the ETECSA numbers database.
