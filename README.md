@@ -41,6 +41,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [GluePHP](https://github.com/GlueApps/GluePHP): framework para el desarrollo de aplicaciones web una sola página empleando el paradigma de programación dirigida por eventos.
 - [mailProc](https://github.com/daxslab/mailProc): Mail service microframework.
 
+## Integrated Development Environments (IDEs)
+
+- [Phaser Editor 2D](http://github.com/PhaserEditor2D/PhaserEditor): Fully visual HTML5 2D game development tool ([website](https://phasereditor2d.com)). Games are based on the Phaser framework.
+
 ## Internet of Things (IoT)
 - [vmq_cloudwatch_metrics](https://github.com/codeadict/vmq_cloudwatch_metrics): [VerneMQ](https://www.vernemq.com) plugin to send broker metrics to AWS CloudWatch.
 - [vernemq_kinesis](https://github.com/codeadict/vernemq_kinesis): [VerneMQ](https://www.vernemq.com) plugin that aggregates and sends MQTT messages to AWS Kinesis.
