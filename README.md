@@ -35,12 +35,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Catalogs
 - [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
-
-
-## Database
-
-### Python/Qt
-
 - [q-guide](https://github.com/leolopez89/Q-Guide): Q-Guide is a frontend to the ETECSA numbers database.
 
 ## Frameworks
