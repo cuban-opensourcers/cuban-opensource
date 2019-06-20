@@ -60,6 +60,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## System
 - [Multicp](https://github.com/daxslab/multicp): Copy files to multiple destinations faster.
+- [nauta-cli](https://github.com/atscub/nauta-cli): utilidad en línea de comandos (CLI) para la gestión del portal cautivo Nauta de Cuba.
 
 ## Web Development
 
