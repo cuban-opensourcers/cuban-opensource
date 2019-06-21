@@ -5,16 +5,16 @@
 Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba...
 
 ## Android Apps
-- [BacheSMS](https://github.com/n3omaster/BacheSMS): Aplicación para el envío de SMS desde el correo nauta.
+- [BacheSMS](https://github.com/n3omaster/BacheSMS): Send SMS from Nuata Email.
 - [BankDroid](https://github.com/rlazom/BankDroid): Transfermovil messages' cool interpreter.
 - [daxSmail](https://github.com/daxslab/daxSmail): Email client based on [k9mail](https://github.com/k9mail/k-9) with some changes to simplify configuring Nauta email accounts.
 - [Es WIFI_ETECSA?](https://github.com/daxslab/es_wifi_etecsa): Checks for security vulnerabilities while connecting to WIFI_ETECSA.
-- [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica): Implementación de la Escala Geriátrica de Evaluación Funcional Global. Instrumento que permite reconocer precozmente la autonomía del adulto mayor.
-- [FotoRecarga](https://github.com/daxslab/fotorecarga): Recargue facilmente su saldo móvil desde los cupones de ETECSA
+- [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica): "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
+- [FotoRecarga](https://github.com/daxslab/fotorecarga): Easily reload credit from  ETECSA coupons using the camera on your smartphone.
 - [MetroTrans](https://github.com/aleguerra05/metro_trans): Transaction viewer for Transfermovil Cuban app.
-- [NautaClear](https://github.com/n3omaster/NautaClear): Aplicación básica para vaciar el correo Nauta.
-- [ShakeItOff](https://github.com/jadolg/ShakeItOff): Apague la pantalla de su teléfono sacudiéndolo.
-- [UCIntlm](https://github.com/jadolg/UCIntlm) Proxy ntlm para android (no requiere root).
+- [NautaClear](https://github.com/n3omaster/NautaClear): Simple app to clean Nauta email acoount.
+- [ShakeItOff](https://github.com/jadolg/ShakeItOff): Turn off your Android phone screen by shaking it.
+- [UCIntlm](https://github.com/jadolg/UCIntlm): ntlm proxy (no root required) for Android.
 
 ## API
 - [rocketchat_API](https://github.com/jadolg/rocketchat_API) REST API wrapper for [Rocket.Chat](https://rocket.chat)
@@ -41,7 +41,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [q-guide](https://github.com/leolopez89/Q-Guide): Q-Guide is a frontend to the ETECSA numbers database.
 
 ## Frameworks
-- [GluePHP](https://github.com/GlueApps/GluePHP): framework para el desarrollo de aplicaciones web una sola página empleando el paradigma de programación dirigida por eventos.
+- [GluePHP](https://github.com/GlueApps/GluePHP): Single page applications development framwork using the event driven development paradigm.
 - [mailProc](https://github.com/daxslab/mailProc): Mail service microframework.
 
 ## Integrated Development Environments (IDEs)
@@ -59,7 +59,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Videomorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
 
 ## Repository management
-- [Sheldon](https://github.com/jmbatistav/sheldon): Herramienta para la descarga de repositorios de distribuciones basadas en Debian GNU/Linux utilizando apt-mirror.
+- [Sheldon](https://github.com/jmbatistav/sheldon): Tool to help donwload repositories for Debien/GNU Linux based distros using apt-mirror.
 - [Tinp](https://github.com/daxslab/tinp-core): tinP is not PSC. Debian based customized repository creator. Core and CLI.
 
 ## SDK
@@ -67,7 +67,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## System
 - [Multicp](https://github.com/daxslab/multicp): Copy files to multiple destinations faster.
-- [nauta-cli](https://github.com/atscub/nauta-cli): utilidad en línea de comandos (CLI) para la gestión del portal cautivo Nauta de Cuba.
+- [nauta-cli](https://github.com/atscub/nauta-cli): command line utility to manage Nauta captive portal.
 
 ## Web Development
 
@@ -77,21 +77,21 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
   - [react-hooks-toolbox](https://github.com/apenab/react-hooks-toolbox): Collection of reactjs hooks.
   
 ### PHP
-- [exclusivo-entrada-plugin](https://github.com/sasousuke/exclusivo-entrada-plugin): Plugin de Wordpress para añadir una frase o palabra ante cada þitulo de entrada a mostrar.
+- [exclusivo-entrada-plugin](https://github.com/sasousuke/exclusivo-entrada-plugin): Wordpress plugin to add a phrase or word at the beggining of every entry title..
 - [fastcode-ci](https://github.com/cjamcu/fastcode-ci): CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
-- [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait): Añade funcionalidad jerárquica a clases.
+- [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait): Add hierarchical functionalities to a class.
 - [Massive Email for OsClass plugins](https://github.com/n3omaster/oc_massive_email): Massive email marketing plugin for OsClass CMS.
-- [ObjectCollection](https://github.com/andaniel05/ObjectCollection): Clase que representa una colección de objetos del mismo tipo.
+- [ObjectCollection](https://github.com/andaniel05/ObjectCollection): Class to represent a collection of objects of the same type.
 - [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags): Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.
 - [PyramidalTests](https://github.com/andaniel05/PyramidalTests): Extends applications of PHPUnit to the BDD field.
 - [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel): Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
-- [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em) WordPress Framework con soporte en Español.
+- [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em): Wordpress framwork supporting Spanish language.
 - [yii2-contactform-module](https://github.com/daxslab/yii2-contactform-module): Yii2 module to include contact forms.
 - [yii2-taggedview](https://github.com/daxslab/yii2-tagged-view): Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.
 - [yii2-thumbnailer](https://github.com/daxslab/yii2-thumbnailer): Yii2 extension to generate (any size) thumbnails for any image on the fly.
 - [yii2-uploader-behavior](https://github.com/daxslab/yii2-uploader-behavior): Yii2 extension to simplifly the process of uploading a file using a behavior that can be attached to models.
 - [yii2-website-module](https://github.com/daxslab/yii2-website-module): Yii2 module to create blog type websites without restricting what you can do within a Yii2 application.
-- [Wordpress Microplugins](https://plugins.svn.wordpress.org/microplugins): Añade funcionalidad al sitio mediante código desde la administración.
+- [Wordpress Microplugins](https://plugins.svn.wordpress.org/microplugins): Add functionality to a Worpress website with code from admin interface.
 
 ### Python
 - [django-ajax](https://github.com/yceruto/django-ajax): Django library for AJAX operations.
