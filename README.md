@@ -1,4 +1,4 @@
-# Cuban Open Source Projects
+﻿# Cuban Open Source Projects
 
 ![Cuban Open Source Projects](https://repository-images.githubusercontent.com/192082154/31c31d80-8f7f-11e9-95d0-3cd6467c8181)
 
@@ -39,6 +39,9 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Catalogs
 - [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
 - [q-guide](https://github.com/leolopez89/Q-Guide): Q-Guide is a frontend to the ETECSA numbers database.
+
+## Competitive Programming
+- [TeamReference](https://github.com/ivangalban/TeamReference): Team reference for Competitive Programming. Algorithms implementations very used in the ACM-ICPC contests. Good latex template to develop your own team reference.
 
 ## Frameworks
 - [GluePHP](https://github.com/GlueApps/GluePHP): framework para el desarrollo de aplicaciones web una sola página empleando el paradigma de programación dirigida por eventos.
