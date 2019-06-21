@@ -5,29 +5,29 @@
 Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba...
 
 ## Android Apps
-- [BacheSMS](https://github.com/n3omaster/BacheSMS): Send SMS from Nuata Email.
+- [BacheSMS](https://github.com/n3omaster/BacheSMS): Send SMS from Nauta Email.
 - [BankDroid](https://github.com/rlazom/BankDroid): Transfermovil messages' cool interpreter.
 - [daxSmail](https://github.com/daxslab/daxSmail): Email client based on [k9mail](https://github.com/k9mail/k-9) with some changes to simplify configuring Nauta email accounts.
 - [Es WIFI_ETECSA?](https://github.com/daxslab/es_wifi_etecsa): Checks for security vulnerabilities while connecting to WIFI_ETECSA.
 - [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica): "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 - [FotoRecarga](https://github.com/daxslab/fotorecarga): Easily reload credit from  ETECSA coupons using the camera on your smartphone.
 - [MetroTrans](https://github.com/aleguerra05/metro_trans): Transaction viewer for Transfermovil Cuban app.
-- [NautaClear](https://github.com/n3omaster/NautaClear): Simple app to clean Nauta email acoount.
+- [NautaClear](https://github.com/n3omaster/NautaClear): Simple app to clean Nauta email account.
 - [ShakeItOff](https://github.com/jadolg/ShakeItOff): Turn off your Android phone screen by shaking it.
 - [UCIntlm](https://github.com/jadolg/UCIntlm): ntlm proxy (no root required) for Android.
 
 ## API
-- [rocketchat_API](https://github.com/jadolg/rocketchat_API) REST API wrapper for [Rocket.Chat](https://rocket.chat)
+- [rocketchat_API](https://github.com/jadolg/rocketchat_API): REST API wrapper for [Rocket.Chat](https://rocket.chat).
 
 ## Arduino & Pic related
 
 ### Libraries
 
-- [Si5351](https://github.com/pavelmc/Si5351mcu) an alternative library for the Si5351 etherkit official one, very small and with more clean signals.
-- [FT-857D CAT control](https://github.com/pavelmc/FT857d) a library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects.
-- [Yatuli](https://github.com/pavelmc/Yatuli) Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer fot that.
-- [Bmux](https://github.com/pavelmc/BMux) you need a few buttons in your project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way.
-- [stepperUnipolar](https://github.com/pavelmc/stepperUnipolar) A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!)
+- [Si5351](https://github.com/pavelmc/Si5351mcu): an alternative library for the Si5351 etherkit official one, very small and with more clean signals.
+- [FT-857D CAT control](https://github.com/pavelmc/FT857d): a library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects.
+- [Yatuli](https://github.com/pavelmc/Yatuli): Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer fot that.
+- [Bmux](https://github.com/pavelmc/BMux): you need a few buttons in your project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way.
+- [stepperUnipolar](https://github.com/pavelmc/stepperUnipolar): A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!)
 
 ### Projects
 
@@ -41,11 +41,11 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [q-guide](https://github.com/leolopez89/Q-Guide): Q-Guide is a frontend to the ETECSA numbers database.
 
 ## Competitive Programming
-- [TeamReference](https://github.com/ivangalban/TeamReference): Team reference for Competitive Programming. Algorithms implementations very used in the ACM-ICPC contests. Good latex template to develop your own team reference.
+- [TeamReference](https://github.com/ivangalban/TeamReference): Team reference for Competitive Programming. Algorithms implementations very used in the ACM-ICPC contests. Good Latex template to develop your own team reference.
 
 ## Frameworks
 - [GluePHP](https://github.com/GlueApps/GluePHP): Single page applications development framwork using the event driven development paradigm.
-- [mailProc](https://github.com/daxslab/mailProc): Mail service microframework.
+- [mailProc](https://github.com/daxslab/mailProc): Mail based services microframework.
 
 ## Integrated Development Environments (IDEs)
 
@@ -62,7 +62,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Videomorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
 
 ## Repository management
-- [Sheldon](https://github.com/jmbatistav/sheldon): Tool to help donwload repositories for Debien/GNU Linux based distros using apt-mirror.
+- [Sheldon](https://github.com/jmbatistav/sheldon): Tool to help donwload repositories for Debian/GNU Linux based distros using apt-mirror.
 - [Tinp](https://github.com/daxslab/tinp-core): tinP is not PSC. Debian based customized repository creator. Core and CLI.
 
 ## SDK
@@ -110,4 +110,3 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### Ruby
 - [kings-landing](https://github.com/codeadict/kings-landing): A modern, simple and customizable landing page dedicated to early customer acquisition for frugal entrepreneurs. Think it as an open-source alternative to LaunchRock without spending 5 bucks monthly.
-
