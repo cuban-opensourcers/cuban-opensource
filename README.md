@@ -76,6 +76,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
   - [react-hooks-toolbox](https://github.com/apenab/react-hooks-toolbox): Collection of reactjs hooks.
   
 ### PHP
+- [exclusivo-entrada-plugin](https://github.com/sasousuke/exclusivo-entrada-plugin): Plugin de Wordpress para añadir una frase o palabra ante cada þitulo de entrada a mostrar.
 - [fastcode-ci](https://github.com/cjamcu/fastcode-ci): CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
 - [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait): Añade funcionalidad jerárquica a clases.
 - [Massive Email for OsClass plugins](https://github.com/n3omaster/oc_massive_email): Massive email marketing plugin for OsClass CMS.
