@@ -5,11 +5,13 @@
 Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba...
 
 ## Android Apps
+- [BacheSMS](https://github.com/n3omaster/BacheSMS): Aplicación para el envío de SMS desde el correo nauta.
 - [BankDroid](https://github.com/rlazom/BankDroid): Transfermovil messages' cool interpreter.
 - [Es WIFI_ETECSA?](https://github.com/daxslab/es_wifi_etecsa): Checks for security vulnerabilities while connecting to WIFI_ETECSA.
 - [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica): Implementación de la Escala Geriátrica de Evaluación Funcional Global. Instrumento que permite reconocer precozmente la autonomía del adulto mayor.
 - [FotoRecarga](https://github.com/daxslab/fotorecarga): Recargue facilmente su saldo móvil desde los cupones de ETECSA
 - [MetroTrans](https://github.com/aleguerra05/metro_trans): Transaction viewer for Transfermovil Cuban app.
+- [NautaClear](https://github.com/n3omaster/NautaClear): Aplicación básica para vaciar el correo Nauta.
 - [ShakeItOff](https://github.com/jadolg/ShakeItOff): Apague la pantalla de su teléfono sacudiéndolo.
 - [UCIntlm](https://github.com/jadolg/UCIntlm) Proxy ntlm para android (no requiere root).
 
@@ -72,6 +74,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ### PHP
 - [fastcode-ci](https://github.com/cjamcu/fastcode-ci): CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
 - [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait): Añade funcionalidad jerárquica a clases.
+- [Massive Email for OsClass plugins](https://github.com/n3omaster/oc_massive_email): Massive email marketing plugin for OsClass CMS.
 - [ObjectCollection](https://github.com/andaniel05/ObjectCollection): Clase que representa una colección de objetos del mismo tipo.
 - [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags): Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.
 - [PyramidalTests](https://github.com/andaniel05/PyramidalTests): Extends applications of PHPUnit to the BDD field.
