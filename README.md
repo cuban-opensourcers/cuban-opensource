@@ -84,8 +84,9 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [ObjectCollection](https://github.com/andaniel05/ObjectCollection): Clase que representa una colección de objetos del mismo tipo.
 - [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags): Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.
 - [PyramidalTests](https://github.com/andaniel05/PyramidalTests): Extends applications of PHPUnit to the BDD field.
+- [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel): Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
 - [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em) WordPress Framework con soporte en Español.
-- [yii2-contactform-module](https://github.com/daxslab/yii2-contactform-module): Yii2 module to include contact forms
+- [yii2-contactform-module](https://github.com/daxslab/yii2-contactform-module): Yii2 module to include contact forms.
 - [yii2-taggedview](https://github.com/daxslab/yii2-tagged-view): Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.
 - [yii2-thumbnailer](https://github.com/daxslab/yii2-thumbnailer): Yii2 extension to generate (any size) thumbnails for any image on the fly.
 - [yii2-uploader-behavior](https://github.com/daxslab/yii2-uploader-behavior): Yii2 extension to simplifly the process of uploading a file using a behavior that can be attached to models.
@@ -93,6 +94,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Wordpress Microplugins](https://plugins.svn.wordpress.org/microplugins): Añade funcionalidad al sitio mediante código desde la administración.
 
 ### Python
+- [django-ajax](https://github.com/yceruto/django-ajax): Django library for AJAX operations.
 - [Spia](https://github.com/daxslab/spia): Simple Python internacionalization API.
 - [web2py-media-gallery](https://github.com/daxslab/web2py-media-gallery): Global media gallery plugin for web2py
 - [web2py-no-captcha-security](https://github.com/daxslab/web2py-no-captcha-security): No-Captcha security plugin for the web2py framework to enable bot protection using no-captcha techniques.
