@@ -1,4 +1,4 @@
-﻿# Cuban Open Source Projects
+# Cuban Open Source Projects
 
 ![Cuban Open Source Projects](https://repository-images.githubusercontent.com/192082154/31c31d80-8f7f-11e9-95d0-3cd6467c8181)
 
@@ -70,7 +70,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## System
 - [Multicp](https://github.com/daxslab/multicp): Copy files to multiple destinations faster.
-- [nauta-cli](https://github.com/atscub/nauta-cli): command line utility to manage Nauta captive portal.
+- [nauta-cli](https://github.com/ateijelo/nauta-cli): command line utility to manage Nauta captive portal.
+- [nauta-cli](https://github.com/atscub/nauta-cli): fork on the previous.
 
 ## Web Development
 
