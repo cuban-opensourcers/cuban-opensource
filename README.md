@@ -102,7 +102,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [django-ajax](https://github.com/yceruto/django-ajax): Django library for AJAX operations.
 - [django-js-choices](https://github.com/lorinkoz/django-js-choices): JavaScript model's fields choices handling for Django.
 - [django-pgschemas](https://github.com/lorinkoz/django-pgschemas): Django multi-tenancy using PostgreSQL schemas.
-- [Spia](https://github.com/daxslab/spia): Simple Python internacionalization API.
+- [Spia](https://github.com/daxslab/spia): Simple Python internationalization API.
 - [web2py-media-gallery](https://github.com/daxslab/web2py-media-gallery): Global media gallery plugin for web2py
 - [web2py-no-captcha-security](https://github.com/daxslab/web2py-no-captcha-security): No-Captcha security plugin for the web2py framework to enable bot protection using no-captcha techniques.
 - [web2py-simple-seo](https://github.com/daxslab/web2py-simple-seo): Simple SEO metadata plugin for web2py including Open Graph and Twitter Cards.
