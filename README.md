@@ -60,6 +60,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Multimedia
 - [Videomorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
+- [LazView](https://github.com/Nenirey/LazView): imagen viewer written in Free Pascal and Lazarus
 
 ## Repository management
 - [Sheldon](https://github.com/jmbatistav/sheldon): Tool to help donwload repositories for Debian/GNU Linux based distros using apt-mirror.
@@ -69,6 +70,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Div Software Solutions](https://divengine.com): Open Source SDK (a set of libs, frameworks and tools for software development)
 
 ## System
+- [AWGG](https://github.com/Nenirey/AWGG): advanced Wget GUI.
 - [Multicp](https://github.com/daxslab/multicp): Copy files to multiple destinations faster.
 - [nauta-cli](https://github.com/ateijelo/nauta-cli): command line utility to manage Nauta captive portal.
 - [nauta-cli](https://github.com/atscub/nauta-cli): fork on the previous.
