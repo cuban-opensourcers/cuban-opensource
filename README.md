@@ -13,6 +13,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [FotoRecarga](https://github.com/daxslab/fotorecarga): Easily reload credit from  ETECSA coupons using the camera on your smartphone.
 - [MetroTrans](https://github.com/aleguerra05/metro_trans): Transaction viewer for Transfermovil Cuban app.
 - [NautaClear](https://github.com/n3omaster/NautaClear): Simple app to clean Nauta email account.
+- [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp): Android app to check listings in www.porlalivre.com while offline.
 - [ShakeItOff](https://github.com/jadolg/ShakeItOff): Turn off your Android phone screen by shaking it.
 - [UCIntlm](https://github.com/jadolg/UCIntlm): ntlm proxy (no root required) for Android.
 
@@ -71,17 +72,24 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## System
 - [AWGG](https://github.com/Nenirey/AWGG): advanced Wget GUI.
+- [DeVil](https://github.com/garciaguimeras/DeVil): Python library to create daemon apps for GNU/Linux systems.
+- [jNauta](https://github.com/garciaguimeras/jnauta): incomplete library to manipulate Nauta emails accounts and authenticate in Nauta network.
 - [Multicp](https://github.com/daxslab/multicp): Copy files to multiple destinations faster.
 - [nauta-cli](https://github.com/ateijelo/nauta-cli): command line utility to manage Nauta captive portal.
 - [nauta-cli](https://github.com/atscub/nauta-cli): fork on the previous.
-- [simple-backup](https://github.com/alejandrojnm/simple-backup): a simple way to backup a directory using the storage server with Amazon S3 compatible API like (Minio, Spaces) 
+- [Nauta.Net](https://github.com/garciaguimeras/Nauta.Net): Windows desktop app to authenticate in Nauta network.
+- [simple-backup](https://github.com/alejandrojnm/simple-backup): a simple way to backup a directory using the storage server with Amazon S3 compatible API like (Minio, Spaces)
+- [VintageReader](https://github.com/garciaguimeras/VintageReader): console ePub reader
 
 ## Web Development
 
 ### Javascript
 
 #### React.js
-  - [react-hooks-toolbox](https://github.com/apenab/react-hooks-toolbox): Collection of reactjs hooks.
+- [react-hooks-toolbox](https://github.com/apenab/react-hooks-toolbox): Collection of reactjs hooks.
+  
+#### TypeScript
+- [TypeScriptTools](https://github.com/garciaguimeras/TypeScriptTools): tools to aid frontend development with TypeScript and jQuery.
   
 ### PHP
 - [exclusivo-entrada-plugin](https://github.com/sasousuke/exclusivo-entrada-plugin): Wordpress plugin to add a phrase or word at the beggining of every entry title..
