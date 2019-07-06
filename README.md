@@ -55,6 +55,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Internet of Things (IoT)
 - [vmq_cloudwatch_metrics](https://github.com/codeadict/vmq_cloudwatch_metrics): [VerneMQ](https://www.vernemq.com) plugin to send broker metrics to AWS CloudWatch.
 - [vernemq_kinesis](https://github.com/codeadict/vernemq_kinesis): [VerneMQ](https://www.vernemq.com) plugin that aggregates and sends MQTT messages to AWS Kinesis.
+- [PowerM](https://github.com/JimScope/PowerM): A Headless server for automation through email.
 
 ## Monitoring & Observability
 - [lager_logentries](https://github.com/codeadict/lager_logentries): Backend for Lager (the Erlan logger) to send logs to Logentries (https://logentries.com) via Token TCP.
