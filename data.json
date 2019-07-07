@@ -1,0 +1,479 @@
+{
+	"data": [
+		{
+			"name": "Android Apps",
+			"projects": [
+				{
+					"name": "BacheSMS",
+					"url": "https://github.com/n3omaster/BacheSMS",
+					"description": "Send SMS from Nauta Email."
+				},
+				{
+					"name": "BankDroid",
+					"url": "https://github.com/rlazom/BankDroid",
+					"description": "Transfermovil messages' cool interpreter."
+				},
+				{
+					"name": "daxSmail",
+					"url": "https://github.com/daxslab/daxSmail",
+					"description": "Email client based on [k9mail](https://github.com/k9mail/k-9) with some changes to simplify configuring Nauta email accounts."
+				},
+				{
+					"name": "Es WIFI_ETECSA?",
+					"url": "https://github.com/daxslab/es_wifi_etecsa",
+					"description": "Checks for security vulnerabilities while connecting to WIFI_ETECSA."
+				},
+				{
+					"name": "Escala Geriátrica",
+					"url": "https://github.com/daxslab/escala-geriatrica",
+					"description": "'Escala Geriátrica de Evaluación Funcional Global' is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation"
+				},
+				{
+					"name": "FotoRecarga",
+					"url": "https://github.com/daxslab/fotorecarga",
+					"description": "Easily reload credit from  ETECSA coupons using the camera on your smartphone."
+				},
+				{
+					"name": "MetroTrans",
+					"url": "https://github.com/aleguerra05/metro_trans",
+					"description": "Transaction viewer for Transfermovil Cuban app."
+				},
+				{
+					"name": "NautaClear",
+					"url": "https://github.com/n3omaster/NautaClear",
+					"description": "Simple app to clean Nauta email account."
+				},
+				{
+					"name": "PorLaLivreApp",
+					"url": "https://github.com/garciaguimeras/PorLaLivreApp",
+					"description": "Android app to check listings in www.porlalivre.com while offline."
+				},
+				{
+					"name": "ShakeItOff",
+					"url": "https://github.com/jadolg/ShakeItOff",
+					"description": "Turn off your Android phone screen by shaking it."
+				},
+				{
+					"name": "UCIntlm",
+					"url": "https://github.com/jadolg/UCIntlm",
+					"description": "ntlm proxy (no root required) for Android."
+				}
+			]
+		},
+		{
+			"name": "API",
+			"projects": [
+				{
+					"name": "rocketchat_API",
+					"url": "https://github.com/jadolg/rocketchat_API",
+					"description": "REST API wrapper for [Rocket.Chat](https://rocket.chat)"
+				}
+			]
+		},
+		{
+			"name": "Arduino & Pic related",
+			"data": [
+				{
+					"name": "Libraries",
+					"projects" : [
+						{
+							"name": "Si5351",
+							"url": "https://github.com/pavelmc/Si5351mcu",
+							"description": "an alternative library for the Si5351 etherkit official one, very small and with more clean signals."
+						},
+						{
+							"name": "FT-857D CAT control",
+							"url": "https://github.com/pavelmc/FT857d",
+							"description": "a library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects."
+						},
+						{
+							"name": "Yatuli",
+							"url": "https://github.com/pavelmc/Yatuli",
+							"description": "Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer fot that."
+						},
+						{
+							"name": "Bmux",
+							"url": "https://github.com/pavelmc/BMux",
+							"description": "you need a few buttons in your project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way."
+						},
+						{
+							"name": "stepperUnipolar",
+							"url": "https://github.com/pavelmc/stepperUnipolar",
+							"description": "A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!)"
+						}
+					]
+				},
+				{
+					"name": "Projects",
+					"projects" : [
+						{
+							"name": "amake",
+							"url": "https://github.com/pavelmc/amake",
+							"description": "you loves arduino but hate the Arduino IDE, no problem you can use your preffered editor and use amake under the hood to compile and upload the code. (Linux only)"
+						},
+						{
+							"name": "carrito",
+							"url": "https://github.com/pavelmc/carrito",
+							"description": "a cuban hombrewed small car project from scrap parts."
+						},
+						{
+							"name": "carrito-control",
+							"url": "https://github.com/pavelmc/carrito-control",
+							"description": "control for [carrito](https://github.com/pavelmc/carrito)"
+						},
+						{
+							"name": "arduino-arcs",
+							"url": "https://github.com/pavelmc/arduino-arcs",
+							"description": "Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment."
+						},
+						{
+							"name": "Multi Porobe SWR meter",
+							"url": "https://github.com/pavelmc/multi-probe-swr-meter",
+							"description": "a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic mode to control ICOM antenna tuners."
+						}
+					]
+				}
+			]
+		},
+		{
+			"name":"Catalogs",
+			"projects": [
+				{
+					"name": "FreeLibrary",
+					"url": "https://github.com/cjamcu/FreeLibrary",
+					"description": "Digital library where users can upload personal and third-party books."
+				},
+				{
+					"name": "q-guide",
+					"url": "https://github.com/leolopez89/Q-Guide",
+					"description": "Q-Guide is a frontend to the ETECSA numbers database."
+				}
+			]
+		},
+		{
+			"name":"Competitive Programming",
+			"projects": [
+				{
+					"name": "TeamReference",
+					"url": "https://github.com/ivangalban/TeamReference",
+					"description": "Team reference for Competitive Programming. Algorithms implementations very used in the ACM-ICPC contests. Good Latex template to develop your own team reference."
+				}
+			]
+		},
+		{
+			"name":"Frameworks",
+			"projects": [
+				{
+					"name": "GluePHP",
+					"url": "https://github.com/GlueApps/GluePHP",
+					"description": "Single page applications development framwork using the event driven development paradigm."
+				},
+				{
+					"name": "mailProc",
+					"url": "https://github.com/daxslab/mailProc",
+					"description": "Mail based services microframework."
+				}
+			]
+		},
+		{
+			"name":"Integrated Development Environments (IDEs)",
+			"projects": [
+				{
+					"name": "Phaser Editor 2D",
+					"url": "http://github.com/PhaserEditor2D/PhaserEditor",
+					"description": "Fully visual HTML5 2D game development tool ([website](https://phasereditor2d.com)). Games are based on the Phaser framework."
+				}
+			]
+		},
+		{
+			"name":"Internet of Things (IoT)",
+			"projects": [
+				{
+					"name": "vmq_cloudwatch_metrics",
+					"url": "https://github.com/codeadict/vmq_cloudwatch_metrics",
+					"description": "[VerneMQ](https://www.vernemq.com) plugin to send broker metrics to AWS CloudWatch"
+				},
+				{
+					"name": "vernemq_kinesis",
+					"url": "https://github.com/codeadict/vernemq_kinesis",
+					"description": "[VerneMQ](https://www.vernemq.com) plugin that aggregates and sends MQTT messages to AWS Kinesis."
+				},
+				{
+					"name": "PowerM",
+					"url": "https://github.com/JimScope/PowerM",
+					"description": "A Headless server for automation through email."
+				}
+			]
+		},
+		{
+			"name":"Monitoring & Observability",
+			"projects": [
+				{
+					"name": "lager_logentries",
+					"url": "https://github.com/codeadict/lager_logentries",
+					"description": "Backend for Lager (the Erlan logger) to send logs to Logentries (https://logentries.com) via Token TCP."
+				}
+			]
+		},
+		{
+			"name":"Multimedia",
+			"projects": [
+				{
+					"name": "Videomorph",
+					"url": "https://github.com/videomorph-dev/videomorph",
+					"description": "GUI wrapper for ffmpeg."
+				},
+				{
+					"name": "LazView",
+					"url": "https://github.com/Nenirey/LazView",
+					"description": "image viewer written in Free Pascal and Lazarus"
+				}
+			]
+		},
+		{
+			"name":"SDK",
+			"projects": [
+				{
+					"name": "Div Software Solutions",
+					"url": "https://divengine.com",
+					"description": "Open Source SDK (a set of libs, frameworks and tools for software development)"
+				}
+			]
+		},
+		{
+			"name":"System",
+			"projects": [
+				{
+					"name": "AWGG",
+					"url": "https://github.com/Nenirey/AWGG",
+					"description": "advanced Wget GUI."
+				},
+				{
+					"name": "DeVil",
+					"url": "https://github.com/garciaguimeras/DeVil",
+					"description": "Python library to create daemon apps for GNU/Linux systems."
+				},
+				{
+					"name": "jNauta",
+					"url": "https://github.com/garciaguimeras/jnauta",
+					"description": "incomplete library to manipulate Nauta emails accounts and authenticate in Nauta network"
+				},
+				{
+					"name": "Multicp",
+					"url": "https://github.com/daxslab/multicp",
+					"description": "Copy files to multiple destinations faster."
+				},
+				{
+					"name": "nauta-cli",
+					"url": "https://github.com/ateijelo/nauta-cli",
+					"description": "command line utility to manage Nauta captive portal."
+				},
+				{
+					"name": "nauta-cli",
+					"url": "https://github.com/atscub/nauta-cli",
+					"description": "fork of https://github.com/ateijelo/nauta-cli"
+				},
+				{
+					"name": "Nauta.Net",
+					"url": "https://github.com/garciaguimeras/Nauta.Net",
+					"description": "Windows desktop app to authenticate in Nauta network."
+				},
+				{
+					"name": "simple-backup",
+					"url": "https://github.com/alejandrojnm/simple-backup",
+					"description": "a simple way to backup a directory using the storage server with Amazon S3 compatible API like (Minio, Spaces)"
+				},
+				{
+					"name": "VintageReader",
+					"url": "https://github.com/garciaguimeras/VintageReader",
+					"description": "console ePub reader."
+				}
+			]
+		},
+		{
+			"name":"Web development",
+			"data": [
+				{
+					"name": "JavaScript",
+					"data": [
+						{
+							"name":"React.js",
+							"projects": [
+								{
+									"name": "react-hooks-toolbox",
+									"url": "https://github.com/apenab/react-hooks-toolbox",
+									"description": "Collection of reactjs hooks."
+								}
+							]
+						},
+						{
+							"name":"TypeScript",
+							"projects": [
+								{
+									"name": "TypeScriptTools",
+									"url": "https://github.com/garciaguimeras/TypeScriptTools",
+									"description": "tools to aid frontend development with TypeScript and jQuery."
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "PHP",
+					"projects": [
+						{
+							"name": "exclusivo-entrada-plugin",
+							"url": "https://github.com/sasousuke/exclusivo-entrada-plugin",
+							"description": "Wordpress plugin to add a phrase or word at the beggining of every entry title."
+						},
+						{
+							"name": "fastcode-ci",
+							"url": "https://github.com/cjamcu/fastcode-ci",
+							"description": "CLI commands for CodeIgniter 4 that allows to quickly create repetitive code."
+						},
+						{
+							"name": "HierarchyTrait",
+							"url": "https://github.com/andaniel05/HierarchyTrait",
+							"description": "Add hierarchical functionalities to a class."
+						},
+						{
+							"name": "Massive Email for OsClass plugins",
+							"url": "https://github.com/n3omaster/oc_massive_email",
+							"description": "Massive email marketing plugin for OsClass CMS."
+						},
+						{
+							"name": "ObjectCollection",
+							"url": "https://github.com/andaniel05/ObjectCollection",
+							"description": "Class to represent a collection of objects of the same type."
+						},
+						{
+							"name": "OJS Social Metatags",
+							"url": "https://github.com/daxslab/ojs-social-metatags",
+							"description": "Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites."
+						},
+						{
+							"name": "PyramidalTests",
+							"url": "https://github.com/andaniel05/PyramidalTests",
+							"description": "Extends applications of PHPUnit to the BDD field."
+						},
+						{
+							"name": "symfony-skeleton-vkernel",
+							"url": "https://github.com/yceruto/symfony-skeleton-vkernel",
+							"description": "Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo."
+						},
+						{
+							"name": "Twenty'em WordPress Framework",
+							"url": "https://github.com/rogertm/twenty-em",
+							"description": "Wordpress framwork supporting Spanish language."
+						},
+						{
+							"name": "yii2-contactform-module",
+							"url": "https://github.com/daxslab/yii2-contactform-module",
+							"description": "Yii2 module to include contact forms."
+						},
+						{
+							"name": "yii2-taggedview",
+							"url": "https://github.com/daxslab/yii2-taggedview",
+							"description": "Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO."
+						},
+						{
+							"name": "yii2-thumbnailer",
+							"url": "https://github.com/daxslab/yii2-thumbnailer",
+							"description": "Yii2 extension to generate (any size) thumbnails for any image on the fly."
+						},
+						{
+							"name": "yii2-uploader-behavior",
+							"url": "https://github.com/daxslab/yii2-uploader-behavior",
+							"description": "Yii2 extension to simplifly the process of uploading a file using a behavior that can be attached to models."
+						},
+						{
+							"name": "yii2-website-module",
+							"url": "https://github.com/daxslab/yii2-website-module",
+							"description": "Yii2 module to create blog type websites without restricting what you can do within a Yii2 application."
+						},
+						{
+							"name": "Wordpress Microplugins",
+							"url": "https://plugins.svn.wordpress.org/microplugins",
+							"description": "Add functionality to a Worpress website with code from admin interface."
+						}
+					]
+				},
+				{
+					"name": "Python",
+					"projects": [
+						{
+							"name": "django-ajax",
+							"url": "https://github.com/yceruto/django-ajax",
+							"description": "Django library for AJAX operations."
+						},
+						{
+							"name": "django-js-choices",
+							"url": "https://github.com/lorinkoz/django-js-choices",
+							"description": "JavaScript model's fields choices handling for Django."
+						},
+						{
+							"name": "django-partial-date",
+							"url": "https://github.com/ktowen/django_partial_date",
+							"description": "Django custom model field for partial dates with the form YYYY, YYYY-MM, YYYY-MM-DD."
+						},
+						{
+							"name": "django-pgschemas",
+							"url": "https://github.com/lorinkoz/django-pgschemas",
+							"description": "Django multi-tenancy using PostgreSQL schemas."
+						},
+						{
+							"name": "Spia",
+							"url": "https://github.com/daxslab/spia",
+							"description": "Simple Python internationalization API."
+						},
+						{
+							"name": "web2py-media-gallery",
+							"url": "https://github.com/daxslab/web2py-media-gallery",
+							"description": "Global media gallery plugin for web2py."
+						},
+						{
+							"name": "web2py-no-captcha-security",
+							"url": "https://github.com/daxslab/web2py-no-captcha-security",
+							"description": "No-Captcha security plugin for the web2py framework to enable bot protection using no-captcha techniques."
+						},
+						{
+							"name": "web2py-simple-seo",
+							"url": "https://github.com/daxslab/web2py-simple-seo",
+							"description": "Simple SEO metadata plugin for web2py including Open Graph and Twitter Cards."
+						},
+						{
+							"name": "web2py-thumbnails",
+							"url": "https://github.com/daxslab/web2py-thumbnails",
+							"description": "Thumbnails plugin for the web2py framework."
+						},
+						{
+							"name": "web2py-typeahead",
+							"url": "https://github.com/daxslab/web2py-typeahead",
+							"description": "typeahead.js autocompletion widget for web2py framework."
+						},
+						{
+							"name": "quotation_followup",
+							"url": "https://github.com/codeadict/quotation_followup",
+							"description": "Odoo (Formerly OpenERP) module to follow up quotations by mail."
+						},
+						{
+							"name": "HTTP2COM",
+							"url": "https://github.com/codeadict/HTTP2COM",
+							"description": "Windows Service that makes bi-directional proxy between HTTP and Serial Port. Can be used for web apps to access the local hardware from the brwser."
+						}
+					]
+				},
+				{
+					"name":"Ruby",
+					"projects":[
+						{
+							"name": "kings-landing",
+							"url": "https://github.com/codeadict/kings-landing",
+							"description": "A modern, simple and customizable landing page dedicated to early customer acquisition for frugal entrepreneurs. Think it as an open-source alternative to LaunchRock without spending 5 bucks monthly."
+						}
+					]
+				}
+			]
+		}
+	] 
+}
