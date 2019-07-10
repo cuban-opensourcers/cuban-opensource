@@ -82,6 +82,9 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [simple-backup](https://github.com/alejandrojnm/simple-backup): a simple way to backup a directory using the storage server with Amazon S3 compatible API like (Minio, Spaces)
 - [VintageReader](https://github.com/garciaguimeras/VintageReader): console ePub reader
 
+### Desktop
+ - [nx-simplemenu-applet](https://github.com/nx-desktop/nx-simplemenu-applet): Menu Extension for Plasma 5
+ 
 ## Docker
 - [DockerImageSave](https://github.com/jadolg/DockerImageSave) Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
 
