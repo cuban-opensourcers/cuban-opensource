@@ -37,6 +37,22 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [arduino-arcs](https://github.com/pavelmc/arduino-arcs) Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment.
 - [Multi Porobe SWR meter](https://github.com/pavelmc/multi-probe-swr-meter) a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic mode to control ICOM antenna tuners. 
 
+
+## Open Scientific Research
+
+### Machine Learning / Deep Learning Models
+
+- [DeepVertebralLabeling](https://github.com/fperdigon/DeepVertebralLabeling_RV): Deep learning model for spine vertebral labeling on Magnetic Resonance Imaging.
+- [LVNet](https://github.com/fperdigon/LVNet): Deep learning model for heart left ventricle segmentation on Magnetic Resonance Imaging.
+
+### Scientific software
+
+- [BacillusMarker](https://github.com/fperdigon/BacillusMarker): BacillusMarker is an application to easy mark bacillus of tuberculosis.
+- [ParasiteMarker](https://github.com/fperdigon/ParasiteMarker): ParasiteMarker is an application to easy mark Malaria parasites.
+
+### Other Scientific Open Source Projects
+- [ECG BaseLine Wander Removal Methods](https://github.com/fperdigon/ECG-BaseLineWander-Removal-Methods): This repository contains 9 methods for Base Line Wander removal on Electrocardiogram signals. It also contains 3 similarity metrics that are applied to signals.
+
 ## Catalogs
 - [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
 - [q-guide](https://github.com/leolopez89/Q-Guide): Q-Guide is a frontend to the ETECSA numbers database.
@@ -47,6 +63,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Frameworks
 - [GluePHP](https://github.com/GlueApps/GluePHP): Single page applications development framwork using the event driven development paradigm.
 - [mailProc](https://github.com/daxslab/mailProc): Mail based services microframework.
+
+## Hacks
+- [Kindle Python PyQtEnv](https://github.com/fperdigon/kindle_Python_PyQt_env): Python2.7 + PyQt4 environment setup for Kindle touch and PaperWhite Amazon jail broken devices.
+- [Kindle PyQT Apps](https://github.com/fperdigon/kindle_PyQT_apps): Python2.7 + PyQt4 new and ported apps to Amazon Kindle devices.
 
 ## Integrated Development Environments (IDEs)
 
@@ -74,6 +94,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## System
 - [AWGG](https://github.com/Nenirey/AWGG): advanced Wget GUI.
 - [DeVil](https://github.com/garciaguimeras/DeVil): Python library to create daemon apps for GNU/Linux systems.
+- [Extend2VNC](https://github.com/fperdigon/Extend2VNC): Extend2VNC can extend the screen of your Linux computer wirelessly using a virtual video interface and vncserver.
 - [jNauta](https://github.com/garciaguimeras/jnauta): incomplete library to manipulate Nauta emails accounts and authenticate in Nauta network.
 - [Multicp](https://github.com/daxslab/multicp): Copy files to multiple destinations faster.
 - [nauta-cli](https://github.com/ateijelo/nauta-cli): command line utility to manage Nauta captive portal.
