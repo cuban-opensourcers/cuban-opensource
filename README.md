@@ -1,5 +1,7 @@
 # Cuban Open Source Projects
 
+[Guide to publish in the list](publish.md)
+
 ![Cuban Open Source Projects](https://repository-images.githubusercontent.com/192082154/31c31d80-8f7f-11e9-95d0-3cd6467c8181)
 
 Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba...
@@ -35,7 +37,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [amake](https://github.com/pavelmc/amake) you loves arduino but hate the Arduino IDE, no problem you can use your preffered editor and use amake under the hood to compile and upload the code. (Linux only)
 - [carrito](https://github.com/pavelmc/carrito) & [carrito-control](https://github.com/pavelmc/carrito-control) a cuban hombrewed small car project from scrap parts.
 - [arduino-arcs](https://github.com/pavelmc/arduino-arcs) Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment.
-- [Multi Porobe SWR meter](https://github.com/pavelmc/multi-probe-swr-meter) a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic mode to control ICOM antenna tuners. 
+- [Multi Porobe SWR meter](https://github.com/pavelmc/multi-probe-swr-meter) a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic mode to control ICOM antenna tuners.
 
 
 ## Open Scientific Research
@@ -112,10 +114,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 #### React.js
 - [react-hooks-toolbox](https://github.com/apenab/react-hooks-toolbox): Collection of reactjs hooks.
-  
+
 #### TypeScript
 - [TypeScriptTools](https://github.com/garciaguimeras/TypeScriptTools): tools to aid frontend development with TypeScript and jQuery.
-  
+
 ### PHP
 - [exclusivo-entrada-plugin](https://github.com/sasousuke/exclusivo-entrada-plugin): Wordpress plugin to add a phrase or word at the beggining of every entry title..
 - [fastcode-ci](https://github.com/cjamcu/fastcode-ci): CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
@@ -131,7 +133,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [yii2-thumbnailer](https://github.com/daxslab/yii2-thumbnailer): Yii2 extension to generate (any size) thumbnails for any image on the fly.
 - [yii2-uploader-behavior](https://github.com/daxslab/yii2-uploader-behavior): Yii2 extension to simplifly the process of uploading a file using a behavior that can be attached to models.
 - [yii2-website-module](https://github.com/daxslab/yii2-website-module): Yii2 module to create blog type websites without restricting what you can do within a Yii2 application.
-- [Wordpress Microplugins](https://plugins.svn.wordpress.org/microplugins): Add functionality to a Worpress website with code from admin interface.
+- [Wordpress Microplugins](https://es.wordpress.org/plugins/microplugins/): Add functionality to a Worpress website with code from admin interface.
 
 ### Python
 - [django-ajax](https://github.com/yceruto/django-ajax): Django library for AJAX operations.
