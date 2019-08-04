@@ -121,6 +121,9 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 #### TypeScript
 - [TypeScriptTools](https://github.com/garciaguimeras/TypeScriptTools): tools to aid frontend development with TypeScript and jQuery.
 
+#### Node.js
+- [Raptor.js](http://github.com/williamamed/Raptor.js): Full Stack Web Framework for Node.js, is part of a branch maintained by Raptor Project a cuban opensource iniciative. This framework use express like core http handler, implement a based component architecture with several default components dedicated to Security (Access control, biometric protection) and more. You must download the raptor-cli tool from the NPM [raptor-cli](https://www.npmjs.com/package/raptor-cli) to create and run your project.
+
 ### PHP
 - [exclusivo-entrada-plugin](https://github.com/sasousuke/exclusivo-entrada-plugin): Wordpress plugin to add a phrase or word at the beggining of every entry title..
 - [fastcode-ci](https://github.com/cjamcu/fastcode-ci): CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
