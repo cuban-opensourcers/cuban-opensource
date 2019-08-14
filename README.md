@@ -85,6 +85,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Multimedia
 - [Videomorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
 - [LazView](https://github.com/Nenirey/LazView): imagen viewer written in Free Pascal and Lazarus
+- [MystiQ](https://github.com/llamaret/MystiQ/): Qt5/C++ FFmpeg Media Converter.
 
 ## Repository management
 - [Sheldon](https://github.com/jmbatistav/sheldon): Tool to help donwload repositories for Debian/GNU Linux based distros using apt-mirror.
