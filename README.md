@@ -111,6 +111,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
  
 ## Docker
 - [DockerImageSave](https://github.com/jadolg/DockerImageSave) Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
+- [Portainer Stack Utils](https://github.com/greenled/portainer-stack-utils) CLI client for [Portainer](https://portainer.io/)
 
 ## Web Development
 
