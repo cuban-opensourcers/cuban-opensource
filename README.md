@@ -66,6 +66,9 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [GluePHP](https://github.com/GlueApps/GluePHP): Single page applications development framwork using the event driven development paradigm.
 - [mailProc](https://github.com/daxslab/mailProc): Mail based services microframework.
 
+## Game Engine
+- [Nawito1906](https://github.com/etorresf/Nawito1906): Chess game engine.
+
 ## Hacks
 - [Kindle Python PyQtEnv](https://github.com/fperdigon/kindle_Python_PyQt_env): Python2.7 + PyQt4 environment setup for Kindle touch and PaperWhite Amazon jail broken devices.
 - [Kindle PyQT Apps](https://github.com/fperdigon/kindle_PyQT_apps): Python2.7 + PyQt4 new and ported apps to Amazon Kindle devices.
@@ -108,7 +111,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### Desktop
  - [nx-simplemenu-applet](https://github.com/nx-desktop/nx-simplemenu-applet): Menu Extension for Plasma 5
- 
+
 ## Docker
 - [DockerImageSave](https://github.com/jadolg/DockerImageSave) Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
 - [Portainer Stack Utils](https://github.com/greenled/portainer-stack-utils) CLI client for [Portainer](https://portainer.io/)
