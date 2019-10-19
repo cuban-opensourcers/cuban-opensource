@@ -161,6 +161,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [web2py-typeahead](https://github.com/daxslab/web2py-typeahead): typeahead.js autocompletion widget for web2py framework.
 - [quotation_followup](https://github.com/codeadict/quotation_followup): Odoo (Formerly OpenERP) module to follow up quotations by mail.
 - [HTTP2COM](https://github.com/codeadict/HTTP2COM): Windows Service that makes bi-directional proxy between HTTP and Serial Port. Can be used for web apps to access the local hardware from the brwser.
+- [TextMadeWeb](https://github.com/jadolg/TextMadeWeb) A website to open other websites in text only mode. Example here [txtmdweb](https://txtmdweb.herokuapp.com)
 
 ### Ruby
 - [kings-landing](https://github.com/codeadict/kings-landing): A modern, simple and customizable landing page dedicated to early customer acquisition for frugal entrepreneurs. Think it as an open-source alternative to LaunchRock without spending 5 bucks monthly.
