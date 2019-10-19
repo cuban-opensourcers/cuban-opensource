@@ -113,6 +113,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## System
 
 - [AWGG](https://github.com/Nenirey/AWGG): advanced Wget GUI.
+- [bootify](https://github.com/oneohthree/bootify): Bash script to make bootable USB drives with Windows 7/8/8.1/10 installation files
 - [DeVil](https://github.com/garciaguimeras/DeVil): Python library to create daemon apps for GNU/Linux systems.
 - [Extend2VNC](https://github.com/fperdigon/Extend2VNC): Extend2VNC can extend the screen of your Linux computer wirelessly using a virtual video interface and vncserver.
 - [jNauta](https://github.com/garciaguimeras/jnauta): incomplete library to manipulate Nauta emails accounts and authenticate in Nauta network.
