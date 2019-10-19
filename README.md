@@ -7,12 +7,13 @@
 Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba...
 
 ## Android Apps
+
 - [BacheSMS](https://github.com/n3omaster/BacheSMS): Send SMS from Nauta Email.
 - [BankDroid](https://github.com/rlazom/BankDroid): Transfermovil messages' cool interpreter.
 - [daxSmail](https://github.com/daxslab/daxSmail): Email client based on [k9mail](https://github.com/k9mail/k-9) with some changes to simplify configuring Nauta email accounts.
 - [Es WIFI_ETECSA?](https://github.com/daxslab/es_wifi_etecsa): Checks for security vulnerabilities while connecting to WIFI_ETECSA.
 - [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica): "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
-- [FotoRecarga](https://github.com/daxslab/fotorecarga): Easily reload credit from  ETECSA coupons using the camera on your smartphone.
+- [FotoRecarga](https://github.com/daxslab/fotorecarga): Easily reload credit from ETECSA coupons using the camera on your smartphone.
 - [MetroTrans](https://github.com/aleguerra05/metro_trans): Transaction viewer for Transfermovil Cuban app.
 - [NautaClear](https://github.com/n3omaster/NautaClear): Simple app to clean Nauta email account.
 - [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp): Android app to check listings in www.porlalivre.com while offline.
@@ -20,6 +21,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [UCIntlm](https://github.com/jadolg/UCIntlm): ntlm proxy (no root required) for Android.
 
 ## API
+
 - [rocketchat_API](https://github.com/jadolg/rocketchat_API): REST API wrapper for [Rocket.Chat](https://rocket.chat).
 
 ## Arduino & Pic related
@@ -39,7 +41,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [arduino-arcs](https://github.com/pavelmc/arduino-arcs) Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment.
 - [Multi Porobe SWR meter](https://github.com/pavelmc/multi-probe-swr-meter) a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic mode to control ICOM antenna tuners.
 
-
 ## Open Scientific Research
 
 ### Machine Learning / Deep Learning Models
@@ -53,23 +54,29 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [ParasiteMarker](https://github.com/fperdigon/ParasiteMarker): ParasiteMarker is an application to easy mark Malaria parasites.
 
 ### Other Scientific Open Source Projects
+
 - [ECG BaseLine Wander Removal Methods](https://github.com/fperdigon/ECG-BaseLineWander-Removal-Methods): This repository contains 9 methods for Base Line Wander removal on Electrocardiogram signals. It also contains 3 similarity metrics that are applied to signals.
 
 ## Catalogs
+
 - [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
 - [q-guide](https://github.com/leolopez89/Q-Guide): Q-Guide is a frontend to the ETECSA numbers database.
 
 ## Competitive Programming
+
 - [TeamReference](https://github.com/ivangalban/TeamReference): Team reference for Competitive Programming. Algorithms implementations very used in the ACM-ICPC contests. Good Latex template to develop your own team reference.
 
 ## Frameworks
+
 - [GluePHP](https://github.com/GlueApps/GluePHP): Single page applications development framwork using the event driven development paradigm.
 - [mailProc](https://github.com/daxslab/mailProc): Mail based services microframework.
 
 ## Game Engine
+
 - [Nawito1906](https://github.com/etorresf/Nawito1906): Chess game engine.
 
 ## Hacks
+
 - [Kindle Python PyQtEnv](https://github.com/fperdigon/kindle_Python_PyQt_env): Python2.7 + PyQt4 environment setup for Kindle touch and PaperWhite Amazon jail broken devices.
 - [Kindle PyQT Apps](https://github.com/fperdigon/kindle_PyQT_apps): Python2.7 + PyQt4 new and ported apps to Amazon Kindle devices.
 
@@ -78,27 +85,33 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Phaser Editor 2D](http://github.com/PhaserEditor2D/PhaserEditor): Fully visual HTML5 2D game development tool ([website](https://phasereditor2d.com)). Games are based on the Phaser framework.
 
 ## Internet of Things (IoT)
+
 - [vmq_cloudwatch_metrics](https://github.com/codeadict/vmq_cloudwatch_metrics): [VerneMQ](https://www.vernemq.com) plugin to send broker metrics to AWS CloudWatch.
 - [vernemq_kinesis](https://github.com/codeadict/vernemq_kinesis): [VerneMQ](https://www.vernemq.com) plugin that aggregates and sends MQTT messages to AWS Kinesis.
 - [PowerM](https://github.com/JimScope/PowerM): A Headless server for automation through email.
 - [IoTInternetMonitor](https://github.com/jadolg/IoTInternetMonitior) An internet connection monitor for ESP8866 with Micropython
 
 ## Monitoring & Observability
-- [lager_logentries](https://github.com/codeadict/lager_logentries): Backend for Lager (the Erlan logger) to send logs to Logentries (https://logentries.com) via Token TCP.
+
+- [lager_logentries](https://github.com/codeadict/lager_logentries): Backend for Lager (the Erlan logger) to send logs to [Logentries](https://logentries.com) via Token TCP.
 
 ## Multimedia
+
 - [Videomorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
 - [LazView](https://github.com/Nenirey/LazView): imagen viewer written in Free Pascal and Lazarus
 - [MystiQ](https://github.com/llamaret/MystiQ/): Qt5/C++ FFmpeg Media Converter.
 
 ## Repository management
+
 - [Sheldon](https://github.com/jmbatistav/sheldon): Tool to help donwload repositories for Debian/GNU Linux based distros using apt-mirror.
 - [Tinp](https://github.com/daxslab/tinp-core): tinP is not PSC. Debian based customized repository creator. Core and CLI.
 
 ## SDK
+
 - [Div Software Solutions](https://divengine.com): Open Source SDK (a set of libs, frameworks and tools for software development)
 
 ## System
+
 - [AWGG](https://github.com/Nenirey/AWGG): advanced Wget GUI.
 - [DeVil](https://github.com/garciaguimeras/DeVil): Python library to create daemon apps for GNU/Linux systems.
 - [Extend2VNC](https://github.com/fperdigon/Extend2VNC): Extend2VNC can extend the screen of your Linux computer wirelessly using a virtual video interface and vncserver.
@@ -111,9 +124,11 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [VintageReader](https://github.com/garciaguimeras/VintageReader): console ePub reader
 
 ### Desktop
- - [nx-simplemenu-applet](https://github.com/nx-desktop/nx-simplemenu-applet): Menu Extension for Plasma 5
+
+- [nx-simplemenu-applet](https://github.com/nx-desktop/nx-simplemenu-applet): Menu Extension for Plasma 5
 
 ## Docker
+
 - [DockerImageSave](https://github.com/jadolg/DockerImageSave) Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
 - [Portainer Stack Utils](https://github.com/greenled/portainer-stack-utils) CLI client for [Portainer](https://portainer.io/)
 
@@ -122,15 +137,19 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ### Javascript
 
 #### React.js
+
 - [react-hooks-toolbox](https://github.com/apenab/react-hooks-toolbox): Collection of reactjs hooks.
 
 #### TypeScript
+
 - [TypeScriptTools](https://github.com/garciaguimeras/TypeScriptTools): tools to aid frontend development with TypeScript and jQuery.
 
 #### Node.js
+
 - [Raptor.js](http://github.com/williamamed/Raptor.js): Full Stack Web Framework for Node.js, is part of a branch maintained by Raptor Project a cuban opensource iniciative. This framework use express like core http handler, implement a based component architecture with several default components dedicated to Security (Access control, biometric protection) and more. You must download the raptor-cli tool from the NPM [raptor-cli](https://www.npmjs.com/package/raptor-cli) to create and run your project.
 
 ### PHP
+
 - [exclusivo-entrada-plugin](https://github.com/sasousuke/exclusivo-entrada-plugin): Wordpress plugin to add a phrase or word at the beggining of every entry title..
 - [fastcode-ci](https://github.com/cjamcu/fastcode-ci): CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
 - [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait): Add hierarchical functionalities to a class.
@@ -148,6 +167,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Wordpress Microplugins](https://es.wordpress.org/plugins/microplugins/): Add functionality to a Worpress website with code from admin interface.
 
 ### Python
+
 - [django-ajax](https://github.com/yceruto/django-ajax): Django library for AJAX operations.
 - [django-js-choices](https://github.com/lorinkoz/django-js-choices): JavaScript model's fields choices handling for Django.
 - [django-partial-date](https://github.com/ktowen/django_partial_date): Django custom model field for partial dates with the form YYYY, YYYY-MM, YYYY-MM-DD.
@@ -164,4 +184,5 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [TextMadeWeb](https://github.com/jadolg/TextMadeWeb) A website to open other websites in text only mode. Example here [txtmdweb](https://txtmdweb.herokuapp.com)
 
 ### Ruby
+
 - [kings-landing](https://github.com/codeadict/kings-landing): A modern, simple and customizable landing page dedicated to early customer acquisition for frugal entrepreneurs. Think it as an open-source alternative to LaunchRock without spending 5 bucks monthly.
