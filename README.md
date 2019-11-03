@@ -108,7 +108,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Tinp](https://github.com/daxslab/tinp-core): tinP is not PSC. Debian based customized repository creator. Core and CLI.
 
 ## Other
-- [Cincel](https://github.com/llamaret/cincel): Qt5 desktop application to manage electrity comsuption.
+- [Cincel](https://github.com/llamaret/cincel): Qt5 desktop application to manage electricity comsuption.
 
 ## SDK
 
