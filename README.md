@@ -1,8 +1,8 @@
 # Cuban Open Source Projects
 
-[Guide to publish in the list](publish.md)
-
 ![Cuban Open Source Projects](https://repository-images.githubusercontent.com/192082154/31c31d80-8f7f-11e9-95d0-3cd6467c8181)
+
+[Guide to publish in the list](publish.md)
 
 Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba...
 
@@ -97,14 +97,17 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Multimedia
 
-- [Videomorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
 - [LazView](https://github.com/Nenirey/LazView): imagen viewer written in Free Pascal and Lazarus
 - [MystiQ](https://github.com/llamaret/MystiQ/): Qt5/C++ FFmpeg Media Converter.
+- [Videomorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
 
 ## Repository management
 
 - [Sheldon](https://github.com/jmbatistav/sheldon): Tool to help donwload repositories for Debian/GNU Linux based distros using apt-mirror.
 - [Tinp](https://github.com/daxslab/tinp-core): tinP is not PSC. Debian based customized repository creator. Core and CLI.
+
+## Other
+- [Cincel](https://github.com/llamaret/cincel): Qt5 desktop application to manage electrity comsuption.
 
 ## SDK
 
