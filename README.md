@@ -14,6 +14,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Es WIFI_ETECSA?](https://github.com/daxslab/es_wifi_etecsa): Checks for security vulnerabilities while connecting to WIFI_ETECSA.
 - [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica): "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 - [FotoRecarga](https://github.com/daxslab/fotorecarga): Easily reload credit from ETECSA coupons using the camera on your smartphone.
+- [HogarEnCuba](https://github.com/daxslab/hogarencuba): Client for www.hogarencuba.com made in Flutter.
 - [MetroTrans](https://github.com/aleguerra05/metro_trans): Transaction viewer for Transfermovil Cuban app.
 - [NautaClear](https://github.com/n3omaster/NautaClear): Simple app to clean Nauta email account.
 - [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp): Android app to check listings in www.porlalivre.com while offline.
