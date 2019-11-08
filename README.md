@@ -176,18 +176,18 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [django-partial-date](https://github.com/ktowen/django_partial_date): Django custom model field for partial dates with the form YYYY, YYYY-MM, YYYY-MM-DD.
 - [django-pgschemas](https://github.com/lorinkoz/django-pgschemas): Django multi-tenancy using PostgreSQL schemas.
 - [django-reactor](https://github.com/edelvalle/reactor): Django implementation of Phoenix LiveView.
+- [HTTP2COM](https://github.com/codeadict/HTTP2COM): Windows Service that makes bi-directional proxy between HTTP and Serial Port. Can be used for web apps to access the local hardware from the brwser.
 - [http-requests](https://github.com/JoseVL92/http-requests): HTTP sync / sync library that works with both: requests and aiohttp, exploiting the best of each one.
+- [quotation_followup](https://github.com/codeadict/quotation_followup): Odoo (Formerly OpenERP) module to follow up quotations by mail.
 - [Spia](https://github.com/daxslab/spia): Simple Python internationalization API.
 - [sqlalchemy-connector](https://github.com/JoseVL92/sqlalchemy-connector): Easy connector for SQL Databases, support for sqlite, postgresql and mysql.
 - [text-miner](https://github.com/JoseVL92/text-miner): Utilities for text mining processing.
+- [TextMadeWeb](https://github.com/jadolg/TextMadeWeb) A website to open other websites in text only mode. Example here [txtmdweb](https://txtmdweb.herokuapp.com)
 - [web2py-media-gallery](https://github.com/daxslab/web2py-media-gallery): Global media gallery plugin for web2py
 - [web2py-no-captcha-security](https://github.com/daxslab/web2py-no-captcha-security): No-Captcha security plugin for the web2py framework to enable bot protection using no-captcha techniques.
 - [web2py-simple-seo](https://github.com/daxslab/web2py-simple-seo): Simple SEO metadata plugin for web2py including Open Graph and Twitter Cards.
 - [web2py-thumbnails](https://github.com/daxslab/web2py-thumbnails): Thumbnails plugin for the web2py framework.
 - [web2py-typeahead](https://github.com/daxslab/web2py-typeahead): typeahead.js autocompletion widget for web2py framework.
-- [quotation_followup](https://github.com/codeadict/quotation_followup): Odoo (Formerly OpenERP) module to follow up quotations by mail.
-- [HTTP2COM](https://github.com/codeadict/HTTP2COM): Windows Service that makes bi-directional proxy between HTTP and Serial Port. Can be used for web apps to access the local hardware from the brwser.
-- [TextMadeWeb](https://github.com/jadolg/TextMadeWeb) A website to open other websites in text only mode. Example here [txtmdweb](https://txtmdweb.herokuapp.com)
 
 ### Ruby
 
