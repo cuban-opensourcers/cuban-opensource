@@ -138,6 +138,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### Javascript
 
+#### Node.js
+
+- [Raptor.js](http://github.com/williamamed/Raptor.js): Full Stack Web Framework for Node.js, is part of a branch maintained by Raptor Project a cuban opensource iniciative. This framework use express like core http handler, implement a based component architecture with several default components dedicated to Security (Access control, biometric protection) and more. You must download the raptor-cli tool from the NPM [raptor-cli](https://www.npmjs.com/package/raptor-cli) to create and run your project.
+
 #### React.js
 
 - [react-hooks-toolbox](https://github.com/apenab/react-hooks-toolbox): Collection of reactjs hooks.
@@ -145,10 +149,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 #### TypeScript
 
 - [TypeScriptTools](https://github.com/garciaguimeras/TypeScriptTools): tools to aid frontend development with TypeScript and jQuery.
-
-#### Node.js
-
-- [Raptor.js](http://github.com/williamamed/Raptor.js): Full Stack Web Framework for Node.js, is part of a branch maintained by Raptor Project a cuban opensource iniciative. This framework use express like core http handler, implement a based component architecture with several default components dedicated to Security (Access control, biometric protection) and more. You must download the raptor-cli tool from the NPM [raptor-cli](https://www.npmjs.com/package/raptor-cli) to create and run your project.
 
 ### PHP
 
