@@ -161,6 +161,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [PyramidalTests](https://github.com/andaniel05/PyramidalTests): Extends applications of PHPUnit to the BDD field.
 - [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel): Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
 - [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em): Wordpress framwork supporting Spanish language.
+- [yii2-calendly](https://github.com/daxslab/yii2-calendly): Yii2 extension to include Calendly widgets.
 - [yii2-contactform-module](https://github.com/daxslab/yii2-contactform-module): Yii2 module to include contact forms.
 - [yii2-taggedview](https://github.com/daxslab/yii2-tagged-view): Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.
 - [yii2-thumbnailer](https://github.com/daxslab/yii2-thumbnailer): Yii2 extension to generate (any size) thumbnails for any image on the fly.
