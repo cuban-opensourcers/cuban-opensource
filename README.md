@@ -118,6 +118,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [DeVil](https://github.com/garciaguimeras/DeVil): Python library to create daemon apps for GNU/Linux systems.
 - [Extend2VNC](https://github.com/fperdigon/Extend2VNC): Extend2VNC can extend the screen of your Linux computer wirelessly using a virtual video interface and vncserver.
 - [jNauta](https://github.com/garciaguimeras/jnauta): incomplete library to manipulate Nauta emails accounts and authenticate in Nauta network.
+- [MailAD](https://github.com/stdevPavelmc/mailad): Full mail server configuration script, with the user's base from Samba/Windows Active Directory, manage users directly in the RSAT
 - [Multicp](https://github.com/daxslab/multicp): Copy files to multiple destinations faster.
 - [nauta-cli](https://github.com/ateijelo/nauta-cli): command line utility to manage Nauta captive portal.
 - [nauta-cli](https://github.com/atscub/nauta-cli): fork on the previous.
