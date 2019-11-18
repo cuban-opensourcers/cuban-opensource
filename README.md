@@ -178,6 +178,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [django-partial-date](https://github.com/ktowen/django_partial_date): Django custom model field for partial dates with the form YYYY, YYYY-MM, YYYY-MM-DD.
 - [django-pgschemas](https://github.com/lorinkoz/django-pgschemas): Django multi-tenancy using PostgreSQL schemas.
 - [django-reactor](https://github.com/edelvalle/reactor): Django implementation of Phoenix LiveView.
+- [flask-base](https://github.com/leynier/flask-base): Base structure for a web application using the Flask micro-framework and the MVC software architecture pattern.
 - [HTTP2COM](https://github.com/codeadict/HTTP2COM): Windows Service that makes bi-directional proxy between HTTP and Serial Port. Can be used for web apps to access the local hardware from the brwser.
 - [http-requests](https://github.com/JoseVL92/http-requests): HTTP sync / sync library that works with both: requests and aiohttp, exploiting the best of each one.
 - [quotation_followup](https://github.com/codeadict/quotation_followup): Odoo (Formerly OpenERP) module to follow up quotations by mail.
