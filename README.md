@@ -81,6 +81,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Kindle Python PyQtEnv](https://github.com/fperdigon/kindle_Python_PyQt_env): Python2.7 + PyQt4 environment setup for Kindle touch and PaperWhite Amazon jail broken devices.
 - [Kindle PyQT Apps](https://github.com/fperdigon/kindle_PyQT_apps): Python2.7 + PyQt4 new and ported apps to Amazon Kindle devices.
 
+## Tutorials & Challenges
+
+- [PyCalc](https://github.com/lpozo/lubricalc): PyCalc is a sample calculator implemented using Python 3. The GUI is built using [PyQt5](https://www.riverbankcomputing.com/static/Docs/PyQt5/introduction.html), [Tkinter](), [PySide2](), and [wxPython]() to show the flexibility of the Model-View-Controller (MVC) pattern.
+
 ## Integrated Development Environments (IDEs)
 
 - [Phaser Editor 2D](http://github.com/PhaserEditor2D/PhaserEditor): Fully visual HTML5 2D game development tool ([website](https://phasereditor2d.com)). Games are based on the Phaser framework.
