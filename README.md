@@ -141,6 +141,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [DockerImageSave](https://github.com/jadolg/DockerImageSave) Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
 - [Portainer Stack Utils](https://github.com/greenled/portainer-stack-utils) CLI client for [Portainer](https://portainer.io/)
 
+## Telegram Bots
+
+- [Cuba-Weather_bot](https://github.com/correalyval/Cuba-Weather_bot) consults weather info from www.redcuba.cu using [cuba-weather](https://github.com/daxslab/cuba-weather).
+
 ## Web Development
 
 ### Javascript
