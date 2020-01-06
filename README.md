@@ -144,6 +144,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Telegram Bots
 
 - [Cuba-Weather_bot](https://github.com/correalyval/Cuba-Weather_bot) consults weather info from www.redcuba.cu using [cuba-weather](https://github.com/daxslab/cuba-weather).
+- [web_podcast](https://github.com/rocana95/web-podcast) bot serving ElEnjambre podcasts via Telegram.
 
 ## Web Development
 
