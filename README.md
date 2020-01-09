@@ -176,7 +176,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em): Wordpress framwork supporting Spanish language.
 - [yii2-calendly](https://github.com/daxslab/yii2-calendly): Yii2 extension to include Calendly widgets.
 - [yii2-contactform-module](https://github.com/daxslab/yii2-contactform-module): Yii2 module to include contact forms.
-- [yii2-taggedview](https://github.com/daxslab/yii2-tagged-view): Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.
+- [yii2-taggedview](https://github.com/daxslab/yii2-taggedview): Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.
 - [yii2-thumbnailer](https://github.com/daxslab/yii2-thumbnailer): Yii2 extension to generate (any size) thumbnails for any image on the fly.
 - [yii2-uploader-behavior](https://github.com/daxslab/yii2-uploader-behavior): Yii2 extension to simplifly the process of uploading a file using a behavior that can be attached to models.
 - [yii2-website-module](https://github.com/daxslab/yii2-website-module): Yii2 module to create blog type websites without restricting what you can do within a Yii2 application.
