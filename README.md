@@ -43,18 +43,67 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### Libraries
 
-- [Si5351](https://github.com/pavelmc/Si5351mcu): an alternative library for the Si5351 etherkit official one, very small and with more clean signals.
-- [FT-857D CAT control](https://github.com/pavelmc/FT857d): a library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects.
-- [Yatuli](https://github.com/pavelmc/Yatuli): Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer fot that.
 - [Bmux](https://github.com/pavelmc/BMux): you need a few buttons in your project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way.
+- [FT-857D CAT control](https://github.com/pavelmc/FT857d): a library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects.
+- [Si5351](https://github.com/pavelmc/Si5351mcu): an alternative library for the Si5351 etherkit official one, very small and with more clean signals.
 - [stepperUnipolar](https://github.com/pavelmc/stepperUnipolar): A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!)
+- [Yatuli](https://github.com/pavelmc/Yatuli): Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer fot that.
 
 ### Projects
 
+- [arduino-arcs](https://github.com/pavelmc/arduino-arcs) Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment.
 - [amake](https://github.com/pavelmc/amake) you loves arduino but hate the Arduino IDE, no problem you can use your preffered editor and use amake under the hood to compile and upload the code. (Linux only)
 - [carrito](https://github.com/pavelmc/carrito) & [carrito-control](https://github.com/pavelmc/carrito-control) a cuban hombrewed small car project from scrap parts.
-- [arduino-arcs](https://github.com/pavelmc/arduino-arcs) Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment.
 - [Multi Porobe SWR meter](https://github.com/pavelmc/multi-probe-swr-meter) a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic mode to control ICOM antenna tuners.
+
+## Catalogs
+
+- [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
+- [q-guide](https://github.com/leolopez89/Q-Guide): Q-Guide is a frontend to the ETECSA numbers database.
+
+## Competitive Programming
+
+- [TeamReference](https://github.com/ivangalban/TeamReference): Team reference for Competitive Programming. Algorithms implementations very used in the ACM-ICPC contests. Good Latex template to develop your own team reference.
+
+## Docker
+
+- [DockerImageSave](https://github.com/jadolg/DockerImageSave) Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
+- [Portainer Stack Utils](https://github.com/greenled/portainer-stack-utils) CLI client for [Portainer](https://portainer.io/)
+
+## Frameworks
+
+- [GluePHP](https://github.com/GlueApps/GluePHP): Single page applications development framwork using the event driven development paradigm.
+- [mailProc](https://github.com/daxslab/mailProc): Mail based services microframework.
+
+## Game Engine
+
+- [Nawito1906](https://github.com/etorresf/Nawito1906): Chess game engine.
+
+## Hacks
+
+- [Kindle PyQT Apps](https://github.com/fperdigon/kindle_PyQT_apps): Python2.7 + PyQt4 new and ported apps to Amazon Kindle devices.
+- [Kindle Python PyQtEnv](https://github.com/fperdigon/kindle_Python_PyQt_env): Python2.7 + PyQt4 environment setup for Kindle touch and PaperWhite Amazon jail broken devices.
+
+## Integrated Development Environments (IDEs)
+
+- [Phaser Editor 2D](http://github.com/PhaserEditor2D/PhaserEditor): Fully visual HTML5 2D game development tool ([website](https://phasereditor2d.com)). Games are based on the Phaser framework.
+
+## Internet of Things (IoT)
+
+- [IoTInternetMonitor](https://github.com/jadolg/IoTInternetMonitior): An internet connection monitor for ESP8866 with Micropython
+- [PowerM](https://github.com/JimScope/PowerM): A Headless server for automation through email.
+- [vernemq_kinesis](https://github.com/codeadict/vernemq_kinesis): [VerneMQ](https://www.vernemq.com) plugin that aggregates and sends MQTT messages to AWS Kinesis.
+- [vmq_cloudwatch_metrics](https://github.com/codeadict/vmq_cloudwatch_metrics): [VerneMQ](https://www.vernemq.com) plugin to send broker metrics to AWS CloudWatch.
+
+## Monitoring & Observability
+
+- [lager_logentries](https://github.com/codeadict/lager_logentries): Backend for Lager (the Erlan logger) to send logs to [Logentries](https://logentries.com) via Token TCP.
+
+## Multimedia
+
+- [LazView](https://github.com/Nenirey/LazView): imagen viewer written in Free Pascal and Lazarus
+- [MystiQ](https://github.com/llamaret/MystiQ/): Qt5/C++ FFmpeg Media Converter.
+- [Videomorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
 
 ## Open Scientific Research
 
@@ -71,54 +120,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ### Other Scientific Open Source Projects
 
 - [ECG BaseLine Wander Removal Methods](https://github.com/fperdigon/ECG-BaseLineWander-Removal-Methods): This repository contains 9 methods for Base Line Wander removal on Electrocardiogram signals. It also contains 3 similarity metrics that are applied to signals.
-
-## Catalogs
-
-- [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
-- [q-guide](https://github.com/leolopez89/Q-Guide): Q-Guide is a frontend to the ETECSA numbers database.
-
-## Competitive Programming
-
-- [TeamReference](https://github.com/ivangalban/TeamReference): Team reference for Competitive Programming. Algorithms implementations very used in the ACM-ICPC contests. Good Latex template to develop your own team reference.
-
-## Frameworks
-
-- [GluePHP](https://github.com/GlueApps/GluePHP): Single page applications development framwork using the event driven development paradigm.
-- [mailProc](https://github.com/daxslab/mailProc): Mail based services microframework.
-
-## Game Engine
-
-- [Nawito1906](https://github.com/etorresf/Nawito1906): Chess game engine.
-
-## Hacks
-
-- [Kindle Python PyQtEnv](https://github.com/fperdigon/kindle_Python_PyQt_env): Python2.7 + PyQt4 environment setup for Kindle touch and PaperWhite Amazon jail broken devices.
-- [Kindle PyQT Apps](https://github.com/fperdigon/kindle_PyQT_apps): Python2.7 + PyQt4 new and ported apps to Amazon Kindle devices.
-
-## Tutorials & Challenges
-
-- [PyCalc](https://github.com/lpozo/python-calculator): PyCalc is a sample calculator implemented using Python 3. The GUI is built using [PyQt5](https://www.riverbankcomputing.com/static/Docs/PyQt5/introduction.html), [Tkinter](https://docs.python.org/3/library/tkinter.html), [PySide2](https://wiki.qt.io/Qt_for_Python), and [wxPython](http://wxpython.org/) to show the flexibility of the [Model-View-Controller (MVC) pattern](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller).
-
-## Integrated Development Environments (IDEs)
-
-- [Phaser Editor 2D](http://github.com/PhaserEditor2D/PhaserEditor): Fully visual HTML5 2D game development tool ([website](https://phasereditor2d.com)). Games are based on the Phaser framework.
-
-## Internet of Things (IoT)
-
-- [vmq_cloudwatch_metrics](https://github.com/codeadict/vmq_cloudwatch_metrics): [VerneMQ](https://www.vernemq.com) plugin to send broker metrics to AWS CloudWatch.
-- [vernemq_kinesis](https://github.com/codeadict/vernemq_kinesis): [VerneMQ](https://www.vernemq.com) plugin that aggregates and sends MQTT messages to AWS Kinesis.
-- [PowerM](https://github.com/JimScope/PowerM): A Headless server for automation through email.
-- [IoTInternetMonitor](https://github.com/jadolg/IoTInternetMonitior) An internet connection monitor for ESP8866 with Micropython
-
-## Monitoring & Observability
-
-- [lager_logentries](https://github.com/codeadict/lager_logentries): Backend for Lager (the Erlan logger) to send logs to [Logentries](https://logentries.com) via Token TCP.
-
-## Multimedia
-
-- [LazView](https://github.com/Nenirey/LazView): imagen viewer written in Free Pascal and Lazarus
-- [MystiQ](https://github.com/llamaret/MystiQ/): Qt5/C++ FFmpeg Media Converter.
-- [Videomorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
 
 ## Repository management
 
@@ -151,15 +152,14 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [nx-simplemenu-applet](https://github.com/nx-desktop/nx-simplemenu-applet): Menu Extension for Plasma 5.
 - [prognos](https://github.com/codeshard/prognos): aplicación para monitorear el estado del tiempo en Cuba.
 
-## Docker
-
-- [DockerImageSave](https://github.com/jadolg/DockerImageSave) Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
-- [Portainer Stack Utils](https://github.com/greenled/portainer-stack-utils) CLI client for [Portainer](https://portainer.io/)
-
 ## Telegram Bots
 
 - [Cuba-Weather_bot](https://github.com/correaleyval/Cuba-Weather_bot) consults weather info from www.redcuba.cu using [cuba-weather](https://github.com/daxslab/cuba-weather).
 - [web_podcast](https://github.com/rocana95/web-podcast) bot serving ElEnjambre podcasts via Telegram.
+
+## Tutorials & Challenges
+
+- [PyCalc](https://github.com/lpozo/python-calculator): PyCalc is a sample calculator implemented using Python 3. The GUI is built using [PyQt5](https://www.riverbankcomputing.com/static/Docs/PyQt5/introduction.html), [Tkinter](https://docs.python.org/3/library/tkinter.html), [PySide2](https://wiki.qt.io/Qt_for_Python), and [wxPython](http://wxpython.org/) to show the flexibility of the [Model-View-Controller (MVC) pattern](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller).
 
 ## Web Development
 
@@ -183,19 +183,19 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [fastcode-ci](https://github.com/cjamcu/fastcode-ci): CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
 - [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait): Add hierarchical functionalities to a class.
 - [Massive Email for OsClass plugins](https://github.com/n3omaster/oc_massive_email): Massive email marketing plugin for OsClass CMS.
+- [mysql-php-save-v1.0](https://github.com/n44ru/mysql-php-save-v1.0): Save MySQL db in production mode, usefull for automatic backups.
 - [ObjectCollection](https://github.com/andaniel05/ObjectCollection): Class to represent a collection of objects of the same type.
 - [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags): Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.
 - [PyramidalTests](https://github.com/andaniel05/PyramidalTests): Extends applications of PHPUnit to the BDD field.
 - [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel): Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
 - [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em): Wordpress framwork supporting Spanish language.
+- [Wordpress Microplugins](https://es.wordpress.org/plugins/microplugins/): Add functionality to a Worpress website with code from admin interface.
 - [yii2-calendly](https://github.com/daxslab/yii2-calendly): Yii2 extension to include Calendly widgets.
 - [yii2-contactform-module](https://github.com/daxslab/yii2-contactform-module): Yii2 module to include contact forms.
 - [yii2-taggedview](https://github.com/daxslab/yii2-taggedview): Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.
 - [yii2-thumbnailer](https://github.com/daxslab/yii2-thumbnailer): Yii2 extension to generate (any size) thumbnails for any image on the fly.
 - [yii2-uploader-behavior](https://github.com/daxslab/yii2-uploader-behavior): Yii2 extension to simplifly the process of uploading a file using a behavior that can be attached to models.
 - [yii2-website-module](https://github.com/daxslab/yii2-website-module): Yii2 module to create blog type websites without restricting what you can do within a Yii2 application.
-- [Wordpress Microplugins](https://es.wordpress.org/plugins/microplugins/): Add functionality to a Worpress website with code from admin interface.
-- [mysql-php-save-v1.0](https://github.com/n44ru/mysql-php-save-v1.0): Save MySQL db in production mode, usefull for automatic backups.
 
 ### Python
 
