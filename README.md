@@ -6,6 +6,20 @@
 
 Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba...
 
+## Academic Examples (Homeworks)
+
+- [calendario-matcom](https://github.com/codestrange/calendario-matcom): Website for creating schedules easily.
+- [matcom-messenger](https://github.com/codestrange/matcom-messenger): Instant messaging system distributed and decentralized with client test application.
+- [numerical-integral-equation](https://github.com/leynier/numerical-integral-equation): Software to solve integral equations numerically.
+- [numerical-integration](https://github.com/leynier/numerical-integration): Software to solve integrals numerically.
+- [numerical-nonlinear-equation](https://github.com/leynier/numerical-nonlinear-equation): Software to solve nonlinear equations numerically.
+- [shellout](https://github.com/codestrange/shellout): Simulator of a Linux shell.
+- [viajes-uh](https://github.com/codestrange/viajes-uh): Sitio web para la planificación y control del flujo de viajes de la Universidad de La Habana.
+- [vimasm](https://github.com/leynier/vimasm): Console text editor implemented in assembly code.
+- [wall-e](https://github.com/leynier/wall-e): SINTIME programming language simulator and compiler.
+- [warehouse-producer-consumer](https://github.com/codestrange/warehouse-producer-consumer): Example application of the [producer consumer problem](https://en.wikipedia.org/wiki/Producer–consumer_problem).
+- [webserver](https://github.com/codestrange/webserver): Web server implemented in C.
+
 ## Android Apps
 
 - [BacheSMS](https://github.com/n3omaster/BacheSMS): Send SMS from Nauta Email.
