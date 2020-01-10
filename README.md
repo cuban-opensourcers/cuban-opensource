@@ -83,7 +83,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Tutorials & Challenges
 
-- [PyCalc](https://github.com/lpozo/lubricalc): PyCalc is a sample calculator implemented using Python 3. The GUI is built using [PyQt5](https://www.riverbankcomputing.com/static/Docs/PyQt5/introduction.html), [Tkinter](), [PySide2](), and [wxPython]() to show the flexibility of the Model-View-Controller (MVC) pattern.
+- [PyCalc](https://github.com/lpozo/python-calculator): PyCalc is a sample calculator implemented using Python 3. The GUI is built using [PyQt5](https://www.riverbankcomputing.com/static/Docs/PyQt5/introduction.html), [Tkinter](https://docs.python.org/3/library/tkinter.html), [PySide2](https://wiki.qt.io/Qt_for_Python), and [wxPython](http://wxpython.org/) to show the flexibility of the [Model-View-Controller (MVC) pattern](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller).
 
 ## Integrated Development Environments (IDEs)
 
