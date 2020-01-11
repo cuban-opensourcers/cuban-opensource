@@ -72,7 +72,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Frameworks
 
-- [GluePHP](https://github.com/GlueApps/GluePHP): Single page applications development framwork using the event driven development paradigm.
+- [GluePHP](https://github.com/GlueApps/GluePHP): Single page applications development framework using the event driven development paradigm.
 - [mailProc](https://github.com/daxslab/mailProc): Mail based services microframework.
 
 ## Game Engine
@@ -188,7 +188,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags): Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.
 - [PyramidalTests](https://github.com/andaniel05/PyramidalTests): Extends applications of PHPUnit to the BDD field.
 - [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel): Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
-- [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em): Wordpress framwork supporting Spanish language.
+- [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em): Wordpress framework supporting Spanish language.
 - [Wordpress Microplugins](https://es.wordpress.org/plugins/microplugins/): Add functionality to a Worpress website with code from admin interface.
 - [yii2-calendly](https://github.com/daxslab/yii2-calendly): Yii2 extension to include Calendly widgets.
 - [yii2-contactform-module](https://github.com/daxslab/yii2-contactform-module): Yii2 module to include contact forms.
