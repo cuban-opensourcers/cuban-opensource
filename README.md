@@ -144,6 +144,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Multicp](https://github.com/daxslab/multicp): Copy files to multiple destinations faster.
 - [nauta-cli](https://github.com/ateijelo/nauta-cli): command line utility to manage Nauta captive portal.
 - [nauta-cli](https://github.com/atscub/nauta-cli): fork on the previous.
+- [NautaPy](https://github.com/atscub/nautapy): Python API + CLI to Nauta captive portal.
 - [Nauta.Net](https://github.com/garciaguimeras/Nauta.Net): Windows desktop app to authenticate in Nauta network.
 - [simple-backup](https://github.com/alejandrojnm/simple-backup): a simple way to backup a directory using the storage server with Amazon S3 compatible API like (Minio, Spaces)
 - [VintageReader](https://github.com/garciaguimeras/VintageReader): console ePub reader
