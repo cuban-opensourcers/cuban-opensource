@@ -175,6 +175,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 - [react-hooks-toolbox](https://github.com/apenab/react-hooks-toolbox): Collection of reactjs hooks.
 
+#### Vue.js / Nuxt
+
+- [Callemonte](https://github.com/sotoplatero/callemonte): Metabuscador de clasificados.
+
 #### TypeScript
 
 - [TypeScriptTools](https://github.com/garciaguimeras/TypeScriptTools): tools to aid frontend development with TypeScript and jQuery.
