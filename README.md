@@ -57,6 +57,17 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [carrito](https://github.com/pavelmc/carrito) & [carrito-control](https://github.com/pavelmc/carrito-control) a cuban hombrewed small car project from scrap parts.
 - [Multi Porobe SWR meter](https://github.com/pavelmc/multi-probe-swr-meter) a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic mode to control ICOM antenna tuners.
 
+## Bots
+
+### Deltachat
+
+- [simplebot](https://github.com/adbenitez/simplebot) [WIP] A pluginable Delta Chat bot written in Python3.
+
+### Telegram
+
+- [Cuba-Weather_bot](https://github.com/correaleyval/Cuba-Weather_bot) consults weather info from www.redcuba.cu using [cuba-weather](https://github.com/daxslab/cuba-weather).
+- [web_podcast](https://github.com/rocana95/web-podcast) bot serving ElEnjambre podcasts via Telegram.
+
 ## Catalogs
 
 - [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
@@ -153,15 +164,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 - [nx-simplemenu-applet](https://github.com/nx-desktop/nx-simplemenu-applet): Menu Extension for Plasma 5.
 - [prognos](https://github.com/codeshard/prognos): aplicación para monitorear el estado del tiempo en Cuba.
-
-## Telegram Bots
-
-- [Cuba-Weather_bot](https://github.com/correaleyval/Cuba-Weather_bot) consults weather info from www.redcuba.cu using [cuba-weather](https://github.com/daxslab/cuba-weather).
-- [web_podcast](https://github.com/rocana95/web-podcast) bot serving ElEnjambre podcasts via Telegram.
-
-## Deltachat Bots
-
-- [simplebot](https://github.com/adbenitez/simplebot) [WIP] A pluginable Delta Chat bot written in Python3.
 
 ## Tutorials & Challenges
 
