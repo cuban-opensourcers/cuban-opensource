@@ -14,7 +14,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [numerical-integration](https://github.com/leynier/numerical-integration): Software to solve integrals numerically.
 - [numerical-nonlinear-equation](https://github.com/leynier/numerical-nonlinear-equation): Software to solve nonlinear equations numerically.
 - [shellout](https://github.com/codestrange/shellout): Simulator of a Linux shell.
-- [viajes-uh](https://github.com/codestrange/viajes-uh): Sitio web para la planificación y control del flujo de viajes de la Universidad de La Habana.
+- [viajes-uh](https://github.com/codestrange/viajes-uh): Website for the planning and control of the flow of trips of the University of Havana.
 - [vimasm](https://github.com/leynier/vimasm): Console text editor implemented in assembly code.
 - [wall-e](https://github.com/leynier/wall-e): SINTIME programming language simulator and compiler.
 - [warehouse-producer-consumer](https://github.com/codestrange/warehouse-producer-consumer): Example application of the [producer consumer problem](https://en.wikipedia.org/wiki/Producer–consumer_problem).
