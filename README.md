@@ -169,6 +169,11 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 - [PyCalc](https://github.com/lpozo/python-calculator): PyCalc is a sample calculator implemented using Python 3. The GUI is built using [PyQt5](https://www.riverbankcomputing.com/static/Docs/PyQt5/introduction.html), [Tkinter](https://docs.python.org/3/library/tkinter.html), [PySide2](https://wiki.qt.io/Qt_for_Python), and [wxPython](http://wxpython.org/) to show the flexibility of the [Model-View-Controller (MVC) pattern](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller).
 
+## Web Applications
+
+- [BacheCubano](https://github.com/n3omaster/bachecubano): Web of Stores, Classifieds and Businesses in Cuba https://www.bachecubano.com
+- [Callemonte](https://github.com/sotoplatero/callemonte): Classified search engine in Cuba https://callemonte.com
+
 ## Web Development
 
 ### Javascript
