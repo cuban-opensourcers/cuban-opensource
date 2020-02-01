@@ -49,6 +49,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Si5351](https://github.com/pavelmc/Si5351mcu): an alternative library for the Si5351 etherkit official one, very small and with more clean signals.
 - [stepperUnipolar](https://github.com/pavelmc/stepperUnipolar): A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!)
 - [Yatuli](https://github.com/pavelmc/Yatuli): Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer fot that.
+- [string-mismatch.js](https://github.com/wil92/string-mismatch) It is a NodeJS library to see the differences between two strings. It has 3 algorithms with different computational complexities.
 
 ### Projects
 
