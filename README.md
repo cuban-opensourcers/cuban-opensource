@@ -174,7 +174,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [BacheCubano](https://github.com/n3omaster/bachecubano): Web of Stores, Classifieds and Businesses in Cuba https://www.bachecubano.com
 - [Callemonte](https://github.com/sotoplatero/callemonte): Classified search engine in Cuba https://callemonte.com
 - [Binary Coffee API](https://github.com/dcs-community/dcs-blog): Backend based in strapi of the Binary Coffee community https://binary-coffee.dev
-- [Binary Coffee Frontend](https://github.com/dcs-community/dcs-blog): Frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
+- [Binary Coffee Frontend](https://github.com/dcs-community/dcs-frontend): Frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
+- [Binary Coffee Admin Frontend](https://github.com/dcs-community/dcs-admin-frontend): Administration frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
 
 ## Web Development
 
