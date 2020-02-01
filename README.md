@@ -49,7 +49,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Si5351](https://github.com/pavelmc/Si5351mcu): an alternative library for the Si5351 etherkit official one, very small and with more clean signals.
 - [stepperUnipolar](https://github.com/pavelmc/stepperUnipolar): A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!)
 - [Yatuli](https://github.com/pavelmc/Yatuli): Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer fot that.
-- [string-mismatch.js](https://github.com/wil92/string-mismatch) It is a NodeJS library to see the differences between two strings. It has 3 algorithms with different computational complexities.
 
 ### Projects
 
@@ -67,8 +66,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ### Telegram
 
 - [Cuba-Weather_bot](https://github.com/correaleyval/Cuba-Weather_bot) consults weather info from www.redcuba.cu using [cuba-weather](https://github.com/daxslab/cuba-weather).
-- [web_podcast](https://github.com/rocana95/web-podcast) bot serving ElEnjambre podcasts via Telegram.
 - [binarycoffee_bot](https://github.com/dcs-community/binarycoffee_bot) It is the official bot of the Binary Coffee community, it keeps the [Telegram channel](https://t.me/binarycoffeedev) updated with the latest articles
+- [web_podcast](https://github.com/rocana95/web-podcast) bot serving ElEnjambre podcasts via Telegram.
 
 ## Catalogs
 
@@ -174,10 +173,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Web Applications
 
 - [BacheCubano](https://github.com/n3omaster/bachecubano): Web of Stores, Classifieds and Businesses in Cuba https://www.bachecubano.com
-- [Callemonte](https://github.com/sotoplatero/callemonte): Classified search engine in Cuba https://callemonte.com
+- [Binary Coffee Admin Frontend](https://github.com/dcs-community/dcs-admin-frontend): Administration frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
 - [Binary Coffee API](https://github.com/dcs-community/dcs-blog): Backend based in strapi of the Binary Coffee community https://binary-coffee.dev
 - [Binary Coffee Frontend](https://github.com/dcs-community/dcs-frontend): Frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
-- [Binary Coffee Admin Frontend](https://github.com/dcs-community/dcs-admin-frontend): Administration frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
+- [Callemonte](https://github.com/sotoplatero/callemonte): Classified search engine in Cuba https://callemonte.com
 
 ## Web Development
 
@@ -186,6 +185,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 #### Node.js
 
 - [Raptor.js](http://github.com/williamamed/Raptor.js): Full Stack Web Framework for Node.js, is part of a branch maintained by Raptor Project a cuban opensource iniciative. This framework use express like core http handler, implement a based component architecture with several default components dedicated to Security (Access control, biometric protection) and more. You must download the raptor-cli tool from the NPM [raptor-cli](https://www.npmjs.com/package/raptor-cli) to create and run your project.
+- [string-mismatch.js](https://github.com/wil92/string-mismatch) It is a NodeJS library to see the differences between two strings. It has 3 algorithms with different computational complexities.
 
 #### React.js
 
