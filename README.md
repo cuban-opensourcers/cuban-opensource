@@ -146,6 +146,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## System
 
 - [AWGG](https://github.com/Nenirey/AWGG): advanced Wget GUI.
+- [awstail](https://github.com/yorodm/awstail): Like `tail -f` for AWS Logs.
 - [bootify](https://github.com/oneohthree/bootify): Bash script to make bootable USB drives with Windows 7/8/8.1/10 installation files
 - [cuba-weather](https://github.com/daxslab/cuba-weather): Python3 client for [redcuba.cu](https://www.redcuba.cu) weather API.
 - [cuba-weather-dart](https://github.com/leynier/cuba-weather-dart): Dart client for [redcuba.cu](https://www.redcuba.cu) weather API.
@@ -160,7 +161,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Nauta.Net](https://github.com/garciaguimeras/Nauta.Net): Windows desktop app to authenticate in Nauta network.
 - [simple-backup](https://github.com/alejandrojnm/simple-backup): a simple way to backup a directory using the storage server with Amazon S3 compatible API like (Minio, Spaces)
 - [VintageReader](https://github.com/garciaguimeras/VintageReader): console ePub reader
-- [awstail](https://github.com/yorodm/awstail): Like `tail -f` for AWS Logs.
 
 ### Desktop
 
