@@ -159,6 +159,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [nauta-cli](https://github.com/atscub/nauta-cli): fork on the previous.
 - [NautaPy](https://github.com/atscub/nautapy): Python API + CLI to Nauta captive portal.
 - [Nauta.Net](https://github.com/garciaguimeras/Nauta.Net): Windows desktop app to authenticate in Nauta network.
+- [openvpn-install](https://github.com/sysadmindecuba/openvpn-install): OpenVPN fast installer for Debian and Ubuntu.
 - [simple-backup](https://github.com/alejandrojnm/simple-backup): a simple way to backup a directory using the storage server with Amazon S3 compatible API like (Minio, Spaces)
 - [VintageReader](https://github.com/garciaguimeras/VintageReader): console ePub reader
 
