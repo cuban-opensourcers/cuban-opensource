@@ -29,18 +29,19 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### Libraries
 
-- [Si5351](https://github.com/pavelmc/Si5351mcu): an alternative library for the Si5351 etherkit official one, very small and with more clean signals.
-- [FT-857D CAT control](https://github.com/pavelmc/FT857d): a library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects.
-- [Yatuli](https://github.com/pavelmc/Yatuli): Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer fot that.
-- [Bmux](https://github.com/pavelmc/BMux): you need a few buttons in your project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way.
-- [stepperUnipolar](https://github.com/pavelmc/stepperUnipolar): A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!)
+- [Bmux](https://github.com/pavelmc/BMux): Need more buttons in your project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way.
+- [FT-857D CAT control](https://github.com/pavelmc/FT857d): A library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects.
+- [Si5351](https://github.com/pavelmc/Si5351mcu): An alternative library for the Si5351 etherkit official one, very small and with more clean signals.
+- [stepperUnipolar](https://github.com/pavelmc/stepperUnipolar): A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!).
+- [Yatuli](https://github.com/pavelmc/Yatuli): Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer for that.
 
 ### Projects
 
-- [amake](https://github.com/pavelmc/amake) you loves arduino but hate the Arduino IDE, no problem you can use your preffered editor and use amake under the hood to compile and upload the code. (Linux only)
+- [amake](https://github.com/pavelmc/amake) You loves Arduino but hate the Arduino IDE, no problem you can use your preffered editor and use amake under the hood to compile and upload the code (Linux only, Geany focused)
+- [arduino-arcs](https://github.com/pavelmc/arduino-arcs) Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment
 - [carrito](https://github.com/pavelmc/carrito) & [carrito-control](https://github.com/pavelmc/carrito-control) a cuban hombrewed small car project from scrap parts.
-- [arduino-arcs](https://github.com/pavelmc/arduino-arcs) Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment.
-- [Multi Porobe SWR meter](https://github.com/pavelmc/multi-probe-swr-meter) a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic mode to control ICOM antenna tuners.
+- [esp8266_wx_station](https://github.com/stdevPavelmc/esp8266_wx_station) A DIY meteorological weather station based on ESP8266 Arduino board that reports to a SBC/PC via wifi
+- [Multi Porobe SWR meter](https://github.com/pavelmc/multi-probe-swr-meter) a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic way to control ICOM antenna tuners for no-ICOM radios
 
 ## Open Scientific Research
 
