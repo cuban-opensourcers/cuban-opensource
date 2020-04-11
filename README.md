@@ -35,6 +35,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp): Android app to check listings in www.porlalivre.com while offline.
 - [ShakeItOff](https://github.com/jadolg/ShakeItOff): Turn off your Android phone screen by shaking it.
 - [UCIntlm](https://github.com/jadolg/UCIntlm): ntlm proxy (no root required) for Android.
+- [Covid19 Cuba](https://github.com/covid19cuba/covid19cuba-app): Mobile application of Covid19 Cuba Data project implemented with Flutter https://covid19cubadata.github.io
 
 ## API
 
