@@ -25,6 +25,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [BacheSMS](https://github.com/n3omaster/BacheSMS): Send SMS from Nauta Email.
 - [BankDroid](https://github.com/rlazom/BankDroid): Transfermovil messages' cool interpreter.
 - [Cuba Weather](https://github.com/leynier/cuba-weather-flutter): Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
+- [Covid19 Cuba](https://github.com/covid19cuba/covid19cuba-app): Mobile application of Covid19 Cuba Data project implemented with Flutter https://covid19cubadata.github.io
 - [daxSmail](https://github.com/daxslab/daxSmail): Email client based on [k9mail](https://github.com/k9mail/k-9) with some changes to simplify configuring Nauta email accounts.
 - [Es WIFI_ETECSA?](https://github.com/daxslab/es_wifi_etecsa): Checks for security vulnerabilities while connecting to WIFI_ETECSA.
 - [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica): "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
@@ -35,7 +36,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp): Android app to check listings in www.porlalivre.com while offline.
 - [ShakeItOff](https://github.com/jadolg/ShakeItOff): Turn off your Android phone screen by shaking it.
 - [UCIntlm](https://github.com/jadolg/UCIntlm): ntlm proxy (no root required) for Android.
-- [Covid19 Cuba](https://github.com/covid19cuba/covid19cuba-app): Mobile application of Covid19 Cuba Data project implemented with Flutter https://covid19cubadata.github.io
 
 ## API
 
