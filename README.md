@@ -183,6 +183,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Binary Coffee Frontend](https://github.com/dcs-community/dcs-frontend): Frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
 - [Callemonte](https://github.com/sotoplatero/callemonte): Classified search engine in Cuba https://callemonte.com
 - [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
+- [Covid19 Cuba Data](https://github.com/covid19cubadata/covid19cubadata.github.io) Covid19 - Dashboard for Cuba
+
 
 ## Web Development
 
