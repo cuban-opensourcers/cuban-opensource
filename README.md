@@ -69,6 +69,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Cuba-Weather_bot](https://github.com/correaleyval/Cuba-Weather_bot) consults weather info from www.redcuba.cu using [cuba-weather](https://github.com/daxslab/cuba-weather).
 - [binarycoffee_bot](https://github.com/dcs-community/binarycoffee_bot) It is the official bot of the Binary Coffee community, it keeps the [Telegram channel](https://t.me/binarycoffeedev) updated with the latest articles
 - [web_podcast](https://github.com/rocana95/web-podcast) bot serving ElEnjambre podcasts via Telegram.
+- [Covid19 Cuba](https://github.com/correaleyval/covid19cuba_bot) Bot para dar seguimiento a la pandemia de COVID-19 en Cuba.
 
 ## Catalogs
 
