@@ -67,10 +67,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### Telegram
 
-- [Cuba-Weather_bot](https://github.com/correaleyval/Cuba-Weather_bot) consults weather info from www.redcuba.cu using [cuba-weather](https://github.com/daxslab/cuba-weather).
 - [binarycoffee_bot](https://github.com/dcs-community/binarycoffee_bot) It is the official bot of the Binary Coffee community, it keeps the [Telegram channel](https://t.me/binarycoffeedev) updated with the latest articles
-- [web_podcast](https://github.com/rocana95/web-podcast) bot serving ElEnjambre podcasts via Telegram.
+- [Cuba-Weather_bot](https://github.com/correaleyval/Cuba-Weather_bot) consults weather info from www.redcuba.cu using [cuba-weather](https://github.com/daxslab/cuba-weather).
 - [Covid19 Cuba](https://github.com/correaleyval/covid19cuba_bot) Bot para dar seguimiento a la pandemia de COVID-19 en Cuba.
+- [web_podcast](https://github.com/rocana95/web-podcast) bot serving ElEnjambre podcasts via Telegram.
 
 ## Catalogs
 
@@ -182,9 +182,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Binary Coffee API](https://github.com/dcs-community/dcs-blog): Backend based in strapi of the Binary Coffee community https://binary-coffee.dev
 - [Binary Coffee Frontend](https://github.com/dcs-community/dcs-frontend): Frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
 - [Callemonte](https://github.com/sotoplatero/callemonte): Classified search engine in Cuba https://callemonte.com
-- [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
 - [Covid19 Cuba Data](https://github.com/covid19cubadata/covid19cubadata.github.io) Covid19 - Dashboard for Cuba
-
+- [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
 
 ## Web Development
 
