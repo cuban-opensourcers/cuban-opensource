@@ -153,6 +153,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [bootify](https://github.com/oneohthree/bootify): Bash script to make bootable USB drives with Windows 7/8/8.1/10 installation files
 - [cuba-weather](https://github.com/daxslab/cuba-weather): Python3 client for [redcuba.cu](https://www.redcuba.cu) weather API.
 - [cuba-weather-dart](https://github.com/leynier/cuba-weather-dart): Dart client for [redcuba.cu](https://www.redcuba.cu) weather API.
+- [cuota_datos](https://github.com/JosueCarballo/cuota_datos): Cuota Datos is an application and script used to know the mobile data quota status of your Etecsa account from the Windows console or from the Linux console.
 - [DeVil](https://github.com/garciaguimeras/DeVil): Python library to create daemon apps for GNU/Linux systems.
 - [Extend2VNC](https://github.com/fperdigon/Extend2VNC): Extend2VNC can extend the screen of your Linux computer wirelessly using a virtual video interface and vncserver.
 - [jNauta](https://github.com/garciaguimeras/jnauta): incomplete library to manipulate Nauta emails accounts and authenticate in Nauta network.
