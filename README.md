@@ -75,7 +75,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Catalogs
 
-- [CubanPodcasts](https://github.com/lugodev/cuban-podcasts): The directory of podcasts produced by cubans.
 - [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
 - [q-guide](https://github.com/leolopez89/Q-Guide): Q-Guide is a frontend to the ETECSA numbers database.
 
@@ -187,6 +186,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Callemonte](https://github.com/sotoplatero/callemonte): Classified search engine in Cuba https://callemonte.com
 - [Covid19 Cuba Data](https://github.com/covid19cubadata/covid19cubadata.github.io): Covid19 - Dashboard for Cuba
 - [CovidCuba](https://github.com/llamaret/covidcuba.swlx.info): Website COVID-19 Pandemic Situation in Cuba. From SWL-X Project
+- [CubanPodcasts](https://github.com/lugodev/cuban-podcasts): The directory of podcasts produced by cubans.
 - [CubaVsCovid](https://github.com/lugodev/cuba-vs-covid): An app to organize the printing and distribution of 3D parts for artificial respirators in Cuba, as part of the fight against COVID-19.
 - [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
 
