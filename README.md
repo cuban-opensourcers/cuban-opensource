@@ -70,6 +70,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [binarycoffee_bot](https://github.com/dcs-community/binarycoffee_bot) It is the official bot of the Binary Coffee community, it keeps the [Telegram channel](https://t.me/binarycoffeedev) updated with the latest articles
 - [Cuba-Weather_bot](https://github.com/correaleyval/Cuba-Weather_bot) consults weather info from www.redcuba.cu using [cuba-weather](https://github.com/daxslab/cuba-weather).
 - [Covid19 Cuba](https://github.com/correaleyval/covid19cuba_bot) Bot para dar seguimiento a la pandemia de COVID-19 en Cuba.
+- [CubanPodcastsFeedrBot](https://github.com/lugodev/cuban-podcasts-feedr-bot): A bot to distribute to Telegram and Twitter every new episode of each cuban podcast.
 - [web_podcast](https://github.com/rocana95/web-podcast) bot serving ElEnjambre podcasts via Telegram.
 
 ## Catalogs
@@ -185,6 +186,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Callemonte](https://github.com/sotoplatero/callemonte): Classified search engine in Cuba https://callemonte.com
 - [Covid19 Cuba Data](https://github.com/covid19cubadata/covid19cubadata.github.io): Covid19 - Dashboard for Cuba
 - [CovidCuba](https://github.com/llamaret/covidcuba.swlx.info): Website COVID-19 Pandemic Situation in Cuba. From SWL-X Project
+- [CubanPodcasts](https://github.com/lugodev/cuban-podcasts): The directory of podcasts produced by cubans.
+- [CubaVsCovid](https://github.com/lugodev/cuba-vs-covid): An app to organize the printing and distribution of 3D parts for artificial respirators in Cuba, as part of the fight against COVID-19.
 - [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
 
 ## Web Development
