@@ -237,6 +237,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [flask-base](https://github.com/leynier/flask-base): Base structure for a web application using the Flask micro-framework and the MVC software architecture pattern.
 - [HTTP2COM](https://github.com/codeadict/HTTP2COM): Windows Service that makes bi-directional proxy between HTTP and Serial Port. Can be used for web apps to access the local hardware from the brwser.
 - [http-requests](https://github.com/JoseVL92/http-requests): HTTP sync / sync library that works with both: requests and aiohttp, exploiting the best of each one.
+- [my-django-celery-stack](https://github.com/mrbrazzi/my_django_celery_stack.git): Implementation of Producer-Consumer using Docker containers with Django App, Celery Worker & Beat and RabbitMQ.
 - [quotation_followup](https://github.com/codeadict/quotation_followup): Odoo (Formerly OpenERP) module to follow up quotations by mail.
 - [Spia](https://github.com/daxslab/spia): Simple Python internationalization API.
 - [sqlalchemy-connector](https://github.com/JoseVL92/sqlalchemy-connector): Easy connector for SQL Databases, support for sqlite, postgresql and mysql.
