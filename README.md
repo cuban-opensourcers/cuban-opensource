@@ -89,8 +89,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Frameworks
 
+- [ComposedViews](https://github.com/thenlabs/composed-views): A PHP framework for build redistributables views and compiled from objects.
 - [GluePHP](https://github.com/GlueApps/GluePHP): Single page applications development framework using the event driven development paradigm.
 - [mailProc](https://github.com/daxslab/mailProc): Mail based services microframework.
+- [PyramidalTests](https://github.com/andaniel05/PyramidalTests): Extends applications of PHPUnit to the BDD field.
 
 ## Game Engine
 
@@ -209,6 +211,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### PHP
 
+- [Components](https://github.com/thenlabs/components): Create custom component-based structures.
+- [ClassBuilder](https://github.com/thenlabs/class-builder): Builder for create PHP classes dinamically.
 - [exclusivo-entrada-plugin](https://github.com/sasousuke/exclusivo-entrada-plugin): Wordpress plugin to add a phrase or word at the beggining of every entry title..
 - [fastcode-ci](https://github.com/cjamcu/fastcode-ci): CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
 - [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait): Add hierarchical functionalities to a class.
@@ -216,7 +220,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [mysql-php-save-v1.0](https://github.com/n44ru/mysql-php-save-v1.0): Save MySQL db in production mode, usefull for automatic backups.
 - [ObjectCollection](https://github.com/andaniel05/ObjectCollection): Class to represent a collection of objects of the same type.
 - [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags): Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.
-- [PyramidalTests](https://github.com/andaniel05/PyramidalTests): Extends applications of PHPUnit to the BDD field.
 - [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel): Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
 - [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em): Wordpress framework supporting Spanish language.
 - [Wordpress Microplugins](https://es.wordpress.org/plugins/microplugins/): Add functionality to a Worpress website with code from admin interface.
