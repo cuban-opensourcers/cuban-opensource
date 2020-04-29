@@ -86,6 +86,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 - [DockerImageSave](https://github.com/jadolg/DockerImageSave) Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
 - [Portainer Stack Utils](https://github.com/greenled/portainer-stack-utils) CLI client for [Portainer](https://portainer.io/)
+- [restana-static](https://hub.docker.com/r/kyberneees/restana-static) Efficiently serve static files using Node.js and Docker containers: https://itnext.io/restana-static-serving-the-frontend-with-node-js-beyond-nginx-e45fdb2e49cb
+
 
 ## Frameworks
 
@@ -93,6 +95,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [GluePHP](https://github.com/GlueApps/GluePHP): Single page applications development framework using the event driven development paradigm.
 - [mailProc](https://github.com/daxslab/mailProc): Mail based services microframework.
 - [PyramidalTests](https://github.com/andaniel05/PyramidalTests): Extends applications of PHPUnit to the BDD field.
+- [restana](https://github.com/jkyberneees/ana) Super fast and minimalist web framework for building REST micro-services.
+- [0http](https://github.com/jkyberneees/0http) Cero friction HTTP request router/framework. The need for speed!
 
 ## Game Engine
 
@@ -201,6 +205,23 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 - [Raptor.js](http://github.com/williamamed/Raptor.js): Full Stack Web Framework for Node.js, is part of a branch maintained by Raptor Project a cuban opensource iniciative. This framework use express like core http handler, implement a based component architecture with several default components dedicated to Security (Access control, biometric protection) and more. You must download the raptor-cli tool from the NPM [raptor-cli](https://www.npmjs.com/package/raptor-cli) to create and run your project.
 - [string-mismatch.js](https://github.com/wil92/string-mismatch) It is a NodeJS library to see the differences between two strings. It has 3 algorithms with different computational complexities.
+- [fast-proxy](https://github.com/fastify/fast-proxy) HTTP proxy library. So you can forward your HTTP request to another server.
+- [fast-gateway](https://github.com/jkyberneees/fast-gateway) A Node.js API Gateway for the masses! https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c
+- [on-http-end](https://github.com/jkyberneees/on-http-end) Allows to capture HTTP response content and headers on request end.
+- [http-cache-middleware](https://github.com/jkyberneees/http-cache-middleware) HTTP caching made simple!
+- [agnostic-http-error-handler](https://github.com/jkyberneees/http-error-handler) Node.js framework agnostic HTTP error handler.
+- [serverless-json-parser](https://github.com/jkyberneees/serverless-json-parser) Simple JSON parser for AWS Lambda + HTTP integration via serverless-http.
+- [http-lambda-proxy](https://github.com/jkyberneees/http-lambda-proxy) Proxy HTTP requests to AWS Lambda.
+- [k-fastify-gateway](https://github.com/jkyberneees/fastify-gateway) A Node.js API Gateway that just works! (based on fastify)
+- [middleware-if-unless](https://github.com/jkyberneees/middleware-if-unless) Invokes connect-like middleware if / unless routing criteria matches. Inspired on express-unless module.
+- [distributed-eventemitter](https://github.com/jkyberneees/distributed-eventemitter) The ultra fast, distributed (multi process and multi server), STOMP based event emitter for Node.js!
+- [nacl-signature](https://github.com/jkyberneees/nacl-signature) JavaScript module to sign/verify data using NaCL crypto library (TweetNaCL.js)
+- [webfirewall](github.com/jkyberneees/webfirewall) Web firewall compatible with Express/Restify and others...
+- [hydra-integration](https://github.com/jkyberneees/hydra-integration) Minimalist 'hydra integration' module, intended for Node.js web frameworks integration.
+- [bull-queue-manager](https://github.com/jkyberneees/bull-queue-manager) Minimalist queue manager based on bull.
+- [hydra-plugin-http](https://github.com/jkyberneees/hydra-plugin-http) Hydra plugin that adds traditional HTTP requests, routing and proxy capabilities to your hydra micro-service cluster.
+- [hydra-dashboard](https://github.com/jkyberneees/hydra-dashboard) Hydra cluster dashboard/router application.
+- [keycloak-backend](https://github.com/jkyberneees/keycloak-backend) Keycloak Node.js minimalist connector for backend services integration.
 
 #### React.js
 
