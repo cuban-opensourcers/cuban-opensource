@@ -40,6 +40,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## API
 
 - [rocketchat_API](https://github.com/jadolg/rocketchat_API): REST API wrapper for [Rocket.Chat](https://rocket.chat).
+- [vpn2go](https://github.com/jadolg/vpn2go): Easy setup and API management for OpenVPN server
 
 ## Arduino & Pic related
 
