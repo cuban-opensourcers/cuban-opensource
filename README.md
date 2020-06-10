@@ -127,7 +127,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 - [LazView](https://github.com/Nenirey/LazView): imagen viewer written in Free Pascal and Lazarus
 - [MystiQ](https://github.com/llamaret/MystiQ/): Qt5/C++ FFmpeg Media Converter.
-- [Videomorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
+- [VideoMorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
 
 ## Open Scientific Research
 
@@ -144,6 +144,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ### Other Scientific Open Source Projects
 
 - [ECG BaseLine Wander Removal Methods](https://github.com/fperdigon/ECG-BaseLineWander-Removal-Methods): This repository contains 9 methods for Base Line Wander removal on Electrocardiogram signals. It also contains 3 similarity metrics that are applied to signals.
+
+### Engineering Calculations
+
+- [Lubepy](https://github.com/lpozo/lubepy): Lubepy is a library that provides a set of basic calculations that applies to machinery lubrication. It's designed to be use on field to do fast  calculations.        
 
 ## Repository management
 
@@ -184,6 +188,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Tutorials & Challenges
 
 - [PyCalc](https://github.com/lpozo/python-calculator): PyCalc is a sample calculator implemented using Python 3. The GUI is built using [PyQt5](https://www.riverbankcomputing.com/static/Docs/PyQt5/introduction.html), [Tkinter](https://docs.python.org/3/library/tkinter.html), [PySide2](https://wiki.qt.io/Qt_for_Python), and [wxPython](http://wxpython.org/) to show the flexibility of the [Model-View-Controller (MVC) pattern](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller).
+- [MathREPL](https://github.com/lpozo/mathrepl): a basic math expression evaluator using Python's `eval()` and the `math` module.
 
 ## Web Applications
 
