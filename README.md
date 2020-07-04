@@ -260,6 +260,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 - [django-ajax](https://github.com/yceruto/django-ajax): Django library for AJAX operations.
 - [django-js-choices](https://github.com/lorinkoz/django-js-choices): JavaScript model's fields choices handling for Django.
+- [django-l10n-cu](https://github.com/Mirage-Tech-Cuba/django-l10n-cu): Django localization app for adapting a product for a cuban market, with Provinces and Municipalities tables populated in the DB.
 - [django-partial-date](https://github.com/ktowen/django_partial_date): Django custom model field for partial dates with the form YYYY, YYYY-MM, YYYY-MM-DD.
 - [django-pgschemas](https://github.com/lorinkoz/django-pgschemas): Django multi-tenancy using PostgreSQL schemas.
 - [django-reactor](https://github.com/edelvalle/reactor): Django implementation of Phoenix LiveView.
