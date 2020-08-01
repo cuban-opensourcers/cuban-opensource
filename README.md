@@ -34,6 +34,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [MetroTrans](https://github.com/aleguerra05/metro_trans): Transaction viewer for Transfermovil Cuban app.
 - [NautaClear](https://github.com/n3omaster/NautaClear): Simple app to clean Nauta email account.
 - [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp): Android app to check listings in www.porlalivre.com while offline.
+- [Rellama](https://github.com/Nenirey/Rellama): This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 - [ShakeItOff](https://github.com/jadolg/ShakeItOff): Turn off your Android phone screen by shaking it.
 - [UCIntlm](https://github.com/jadolg/UCIntlm): ntlm proxy (no root required) for Android.
 
