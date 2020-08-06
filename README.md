@@ -203,6 +203,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [CubaVsCovid](https://github.com/lugodev/cuba-vs-covid): An app to organize the printing and distribution of 3D parts for artificial respirators in Cuba, as part of the fight against COVID-19.
 - [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
 
+- [django-bpatri](https://github.com/seiyukaras/bpatri): A search engine in Django to index all the patrominium videos and automate the search for them
+
 ## Web Development
 
 ### Javascript
