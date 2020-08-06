@@ -197,13 +197,12 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Binary Coffee Admin Frontend](https://github.com/dcs-community/dcs-admin-frontend): Administration frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
 - [Binary Coffee API](https://github.com/dcs-community/dcs-blog): Backend based in strapi of the Binary Coffee community https://binary-coffee.dev
 - [Binary Coffee Frontend](https://github.com/dcs-community/dcs-frontend): Frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
+- [Bpatri](https://github.com/seiyukaras/bpatri): A search engine in Django to index all the patrominium videos and automate the search for them
 - [Callemonte](https://github.com/sotoplatero/callemonte): Classified search engine in Cuba https://callemonte.com
 - [Covid19 Cuba Data](https://github.com/covid19cubadata/covid19cubadata.github.io): Covid19 - Dashboard for Cuba
 - [CovidCuba](https://github.com/llamaret/covidcuba.swlx.info): Website COVID-19 Pandemic Situation in Cuba. From SWL-X Project
 - [CubaVsCovid](https://github.com/lugodev/cuba-vs-covid): An app to organize the printing and distribution of 3D parts for artificial respirators in Cuba, as part of the fight against COVID-19.
 - [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
-
-- [django-bpatri](https://github.com/seiyukaras/bpatri): A search engine in Django to index all the patrominium videos and automate the search for them
 
 ## Web Development
 
