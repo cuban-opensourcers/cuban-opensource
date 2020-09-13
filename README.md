@@ -210,6 +210,12 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Web Development
 
+### C#
+
+#### ASP.NET Core
+
+- [NStart](https://github.com/Pixely-Studios/NStart): Una solucion para estudios de videojuegos que necesiten una página para promocionar su estudio, sus productos y su equipo. 
+
 ### Javascript
 
 #### Node.js
