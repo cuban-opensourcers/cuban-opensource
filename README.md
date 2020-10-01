@@ -180,6 +180,8 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [openvpn-install](https://github.com/sysadminsdecuba/openvpn-install): OpenVPN fast installer for Debian and Ubuntu.
 - [simple-backup](https://github.com/alejandrojnm/simple-backup): a simple way to backup a directory using the storage server with Amazon S3 compatible API like (Minio, Spaces)
 - [VintageReader](https://github.com/garciaguimeras/VintageReader): console ePub reader
+- [clipu](https://github.com/jadolg/clipu): Yet another tool to share your clipboard amongst devices in your local network.
+ 
 
 ### Desktop
 
