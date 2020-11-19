@@ -99,7 +99,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [PyramidalTests](https://github.com/andaniel05/PyramidalTests): Extends applications of PHPUnit to the BDD field.
 - [Raptor.js](http://github.com/williamamed/Raptor.js): Full Stack Web Framework for Node.js, is part of a branch maintained by Raptor Project a cuban opensource iniciative. This framework use express like core http handler, implement a based component architecture with several default components dedicated to Security (Access control, biometric protection) and more. You must download the raptor-cli tool from the NPM [raptor-cli](https://www.npmjs.com/package/raptor-cli) to create and run your project.
 - [restana](https://github.com/jkyberneees/ana) Super fast and minimalist web framework for building REST micro-services.
-- [StratusPHP](https://thenlabs.org/en/doc/stratus-php/master/index.html) PHP framework for creating single page applications using the event-driven programming paradigm.
 
 ## Game Engine
 
