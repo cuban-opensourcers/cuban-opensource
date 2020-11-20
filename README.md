@@ -102,6 +102,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [PyramidalTests](https://github.com/andaniel05/PyramidalTests): Extends applications of PHPUnit to the BDD field.
 - [Raptor.js](http://github.com/williamamed/Raptor.js): Full Stack Web Framework for Node.js, is part of a branch maintained by Raptor Project a cuban opensource iniciative. This framework use express like core http handler, implement a based component architecture with several default components dedicated to Security (Access control, biometric protection) and more. You must download the raptor-cli tool from the NPM [raptor-cli](https://www.npmjs.com/package/raptor-cli) to create and run your project.
 - [restana](https://github.com/jkyberneees/ana) Super fast and minimalist web framework for building REST micro-services.
+- [StratusPHP](https://github.com/thenlabs/stratus-php) PHP framework for creating single page applications using the event-driven programming paradigm.
 
 ## Game Engine
 
@@ -151,7 +152,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### Engineering Calculations
 
-- [Lubepy](https://github.com/lpozo/lubepy): Lubepy is a library that provides a set of basic calculations that applies to machinery lubrication. It's designed to be use on field to do fast  calculations.        
+- [Lubepy](https://github.com/lpozo/lubepy): Lubepy is a library that provides a set of basic calculations that applies to machinery lubrication. It's designed to be use on field to do fast  calculations.
 
 ## Repository management
 
@@ -184,7 +185,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [simple-backup](https://github.com/alejandrojnm/simple-backup): a simple way to backup a directory using the storage server with Amazon S3 compatible API like (Minio, Spaces)
 - [VintageReader](https://github.com/garciaguimeras/VintageReader): console ePub reader
 - [clipu](https://github.com/jadolg/clipu): Yet another tool to share your clipboard amongst devices in your local network.
- 
+
 
 ### Desktop
 
@@ -254,6 +255,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [exclusivo-entrada-plugin](https://github.com/sasousuke/exclusivo-entrada-plugin): Wordpress plugin to add a phrase or word at the beggining of every entry title..
 - [fastcode-ci](https://github.com/cjamcu/fastcode-ci): CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
 - [HierarchyTrait](https://github.com/andaniel05/HierarchyTrait): Add hierarchical functionalities to a class.
+- [HttpServer](https://github.com/thenlabs/http-server): A HTTP Server written in PHP with help of the Symfony components.
 - [Massive Email for OsClass plugins](https://github.com/n3omaster/oc_massive_email): Massive email marketing plugin for OsClass CMS.
 - [mysql-php-save-v1.0](https://github.com/n44ru/mysql-php-save-v1.0): Save MySQL db in production mode, usefull for automatic backups.
 - [ObjectCollection](https://github.com/andaniel05/ObjectCollection): Class to represent a collection of objects of the same type.
