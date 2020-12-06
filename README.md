@@ -185,7 +185,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [simple-backup](https://github.com/alejandrojnm/simple-backup): a simple way to backup a directory using the storage server with Amazon S3 compatible API like (Minio, Spaces)
 - [VintageReader](https://github.com/garciaguimeras/VintageReader): console ePub reader
 - [clipu](https://github.com/jadolg/clipu): Yet another tool to share your clipboard amongst devices in your local network.
-
+- [PsiphonQt](https://github.com/rsanjuan87/PsiphonQt): A Psiphon GUI client builded in Qt 
 
 ### Desktop
 
