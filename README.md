@@ -296,3 +296,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ### Ruby
 
 - [kings-landing](https://github.com/codeadict/kings-landing): A modern, simple and customizable landing page dedicated to early customer acquisition for frugal entrepreneurs. Think it as an open-source alternative to LaunchRock without spending 5 bucks monthly.
+- [pluie](https://github.com/luilver/pluie): A fully functional platform for sending SMS. Ten of the most used SMS-Gateways implemented including Twilio. This project was the former core of [Knales](https://knales.github.io)
