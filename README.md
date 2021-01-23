@@ -261,6 +261,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [ObjectCollection](https://github.com/andaniel05/ObjectCollection): Class to represent a collection of objects of the same type.
 - [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags): Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.
 - [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel): Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
+- [ThenLabsStratusBundle](https://github.com/thenlabs/stratus-bundle): Extends Symfony to the full stack development with integration of StratusPHP.
 - [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em): Wordpress framework supporting Spanish language.
 - [Wordpress Microplugins](https://es.wordpress.org/plugins/microplugins/): Add functionality to a Worpress website with code from admin interface.
 - [yii2-calendly](https://github.com/daxslab/yii2-calendly): Yii2 extension to include Calendly widgets.
