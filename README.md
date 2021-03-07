@@ -133,6 +133,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [LazView](https://github.com/Nenirey/LazView): imagen viewer written in Free Pascal and Lazarus
 - [MystiQ](https://github.com/llamaret/MystiQ/): Qt5/C++ FFmpeg Media Converter.
 - [VideoMorph](https://github.com/videomorph-dev/videomorph): GUI wrapper for ffmpeg.
+- [Picta Downloader GUI](https://github.com/oleksis/picta-dl-gui): permite descargar contenidos audiovisuales desde [Picta](https://www.picta.cu/)
 
 ## Open Scientific Research
 
