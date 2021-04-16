@@ -215,6 +215,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [CubaVsCovid](https://github.com/lugodev/cuba-vs-covid): An app to organize the printing and distribution of 3D parts for artificial respirators in Cuba, as part of the fight against COVID-19.
 - [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
 - [NStart](https://github.com/Pixely-Studios/NStart): Una solucion para estudios de videojuegos que necesiten una página para promocionar su estudio, sus productos y su equipo.
+- [Qvolax](https://github.com/ovillafuerte94/qvolax): Live Chat System with Ajax, PHP & MySQL
 
 ## Web Development
 
