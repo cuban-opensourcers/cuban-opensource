@@ -92,6 +92,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [DockerImageSave](https://github.com/jadolg/DockerImageSave) Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
 - [Portainer Stack Utils](https://github.com/greenled/portainer-stack-utils) CLI client for [Portainer](https://portainer.io/)
 - [restana-static](https://hub.docker.com/r/kyberneees/restana-static) Efficiently serve static files using Node.js and Docker containers: https://itnext.io/restana-static-serving-the-frontend-with-node-js-beyond-nginx-e45fdb2e49cb
+- [SimpleStaticServer](https://github.com/PhaserEditor2D/SimpleStaticServer/) Zero-configuration server for static files. Optimized for HTML5 games and Single Page Applications. Made with Go.
 
 
 ## Frameworks
