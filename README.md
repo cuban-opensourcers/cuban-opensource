@@ -1,5 +1,7 @@
 # Cuban Open Source Projects
 
+![Cuban Open Source Projects](https://repository-images.githubusercontent.com/192082154/f88e69a2-9590-4b08-9172-a583e509427f)
+
 [Guide to publish in the list](publish.md)
 
 Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba...
