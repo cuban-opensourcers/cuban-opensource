@@ -9,6 +9,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Academic Examples (Homeworks)
 
 - [calendario-matcom](https://github.com/codestrange/calendario-matcom): Website for creating schedules easily.
+- [gateways](https://github.com/glpzzz/gateways): Node.js + Express + MongoDB + Vue.js CRUD example.
 - [matcom-messenger](https://github.com/codestrange/matcom-messenger): Instant messaging system distributed and decentralized with client test application.
 - [numerical-integral-equation](https://github.com/leynier/numerical-integral-equation): Software to solve integral equations numerically.
 - [numerical-integration](https://github.com/leynier/numerical-integration): Software to solve integrals numerically.
