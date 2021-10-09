@@ -166,6 +166,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## SDK
 
 - [Div Software Solutions](https://divengine.com): Open Source SDK (a set of libs, frameworks and tools for software development)
+- [qvapay-go](https://github.com/kenriortega/qvapay-go): Open Source SDK (non-official client for qvapay service with go)
 
 ## System
 
@@ -185,6 +186,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [nauta-cli](https://github.com/atscub/nauta-cli): fork on the previous.
 - [NautaPy](https://github.com/atscub/nautapy): Python API + CLI to Nauta captive portal.
 - [Nauta.Net](https://github.com/garciaguimeras/Nauta.Net): Windows desktop app to authenticate in Nauta network.
+- [ngonx](https://github.com/kenriortega/ngonx): It`s a simple proxy server written with go. The core services are based on nginx server, and traefik
 - [openvpn-install](https://github.com/sysadminsdecuba/openvpn-install): OpenVPN fast installer for Debian and Ubuntu.
 - [simple-backup](https://github.com/alejandrojnm/simple-backup): a simple way to backup a directory using the storage server with Amazon S3 compatible API like (Minio, Spaces)
 - [VintageReader](https://github.com/garciaguimeras/VintageReader): console ePub reader
@@ -231,6 +233,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [distributed-eventemitter](https://github.com/jkyberneees/distributed-eventemitter) The ultra fast, distributed (multi process and multi server), STOMP based event emitter for Node.js!
 - [fast-proxy](https://github.com/fastify/fast-proxy) HTTP proxy library. So you can forward your HTTP request to another server.
 - [fast-gateway](https://github.com/jkyberneees/fast-gateway) A Node.js API Gateway for the masses! https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c
+- [fastify-msgpack](https://github.com/kenriortega/fastify-msgpack) Fastify and MessagePack, together at last. Uses @msgpack/msgpack by default.
 - [http-cache-middleware](https://github.com/jkyberneees/http-cache-middleware) HTTP caching made simple!
 - [http-lambda-proxy](https://github.com/jkyberneees/http-lambda-proxy) Proxy HTTP requests to AWS Lambda.
 - [hydra-dashboard](https://github.com/jkyberneees/hydra-dashboard) Hydra cluster dashboard/router application.
