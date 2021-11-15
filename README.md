@@ -198,11 +198,16 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [link-zone-desktop](https://github.com/raulcr98/link-zone-desktop): Desktop app to easily manage the Alcatel Link Zone.
 - [nx-simplemenu-applet](https://github.com/nx-desktop/nx-simplemenu-applet): Menu Extension for Plasma 5.
 - [prognos](https://github.com/codeshard/prognos): aplicación para monitorear el estado del tiempo en Cuba.
+- [qvapay-desktop](https://github.com/LimbatusDev/qvapay-desktop): Desktop app for [QvaPay](https://link.ragnarok22.dev/qvapay)
+- [devdocs-desktop](https://github.com/LimbatusDev/devdocs-desktop): Desktop app for [DevDocs](devdocs.io/).
+- [VPS Etecsa Calculator](https://github.com/ragnarok22/VPSEtecsaCalculator): Simple calculator for ETECSA VPS prices.
 
 ## Tutorials & Challenges
 
 - [PyCalc](https://github.com/lpozo/python-calculator): PyCalc is a sample calculator implemented using Python 3. The GUI is built using [PyQt5](https://www.riverbankcomputing.com/static/Docs/PyQt5/introduction.html), [Tkinter](https://docs.python.org/3/library/tkinter.html), [PySide2](https://wiki.qt.io/Qt_for_Python), and [wxPython](http://wxpython.org/) to show the flexibility of the [Model-View-Controller (MVC) pattern](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller).
 - [MathREPL](https://github.com/lpozo/mathrepl): a basic math expression evaluator using Python's `eval()` and the `math` module.
+- [smart contract chat](https://github.com/ragnarok22/smart-contact-chat): An example how to build a simple web3 Dapp and smart contract.
+- [Wallet connect](https://github.com/ragnarok22/wallet-connect): An ease way to connect your web app with metamask with React.
 
 ## GitHub actions
 
@@ -222,6 +227,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
 - [NStart](https://github.com/Pixely-Studios/NStart): Una solucion para estudios de videojuegos que necesiten una página para promocionar su estudio, sus productos y su equipo.
 - [Qvolax](https://github.com/ovillafuerte94/qvolax): Live Chat System with Ajax, PHP & MySQL
+- [El blog de Ragnarok](https://github.com/ragnarok22/el-blog-de-Ragnarok): Reinier Hernández's [personal blog](https://ragnarok22-blog.netlify.app) serverless.
 
 ## Web Development
 
