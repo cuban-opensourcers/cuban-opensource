@@ -195,11 +195,11 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### Desktop
 
+- [devdocs-desktop](https://github.com/LimbatusDev/devdocs-desktop): Desktop app for [DevDocs](devdocs.io/).
 - [link-zone-desktop](https://github.com/raulcr98/link-zone-desktop): Desktop app to easily manage the Alcatel Link Zone.
 - [nx-simplemenu-applet](https://github.com/nx-desktop/nx-simplemenu-applet): Menu Extension for Plasma 5.
 - [prognos](https://github.com/codeshard/prognos): aplicación para monitorear el estado del tiempo en Cuba.
 - [qvapay-desktop](https://github.com/LimbatusDev/qvapay-desktop): Desktop app for [QvaPay](https://link.ragnarok22.dev/qvapay)
-- [devdocs-desktop](https://github.com/LimbatusDev/devdocs-desktop): Desktop app for [DevDocs](devdocs.io/).
 - [VPS Etecsa Calculator](https://github.com/ragnarok22/VPSEtecsaCalculator): Simple calculator for ETECSA VPS prices.
 
 ## Tutorials & Challenges
@@ -219,6 +219,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Binary Coffee Admin Frontend](https://github.com/dcs-community/dcs-admin-frontend): Administration frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
 - [Binary Coffee API](https://github.com/dcs-community/dcs-blog): Backend based in strapi of the Binary Coffee community https://binary-coffee.dev
 - [Binary Coffee Frontend](https://github.com/dcs-community/dcs-frontend): Frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
+- [Blog de Ragnarok](https://github.com/ragnarok22/el-blog-de-Ragnarok): Reinier Hernández's [personal blog](https://ragnarok22-blog.netlify.app) serverless.
 - [Bpatri](https://github.com/seiyukaras/bpatri): A search engine in Django to index all the patrominium videos and automate the search for them
 - [Callemonte](https://github.com/sotoplatero/callemonte): Classified search engine in Cuba https://callemonte.com
 - [Covid19 Cuba Data](https://github.com/covid19cubadata/covid19cubadata.github.io): Covid19 - Dashboard for Cuba
@@ -227,7 +228,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
 - [NStart](https://github.com/Pixely-Studios/NStart): Una solucion para estudios de videojuegos que necesiten una página para promocionar su estudio, sus productos y su equipo.
 - [Qvolax](https://github.com/ovillafuerte94/qvolax): Live Chat System with Ajax, PHP & MySQL
-- [El blog de Ragnarok](https://github.com/ragnarok22/el-blog-de-Ragnarok): Reinier Hernández's [personal blog](https://ragnarok22-blog.netlify.app) serverless.
 
 ## Web Development
 
