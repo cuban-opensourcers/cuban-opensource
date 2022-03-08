@@ -228,6 +228,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
 - [NStart](https://github.com/Pixely-Studios/NStart): Una solucion para estudios de videojuegos que necesiten una página para promocionar su estudio, sus productos y su equipo.
 - [Qvolax](https://github.com/ovillafuerte94/qvolax): Live Chat System with Ajax, PHP & MySQL
+- [Threadly Frontend](https://github.com/ragnarok22/threadly): Schedule, manage and create Twitter's threads in a thoughtful way.
 
 ## Web Development
 
