@@ -228,6 +228,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [CovidCuba](https://github.com/llamaret/covidcuba.swlx.info): Website COVID-19 Pandemic Situation in Cuba. From SWL-X Project
 - [CubaVsCovid](https://github.com/lugodev/cuba-vs-covid): An app to organize the printing and distribution of 3D parts for artificial respirators in Cuba, as part of the fight against COVID-19.
 - [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
+- [gatsby-cv-maker](https://github.com/M4ss1ck/gatsby-cv-maker) is a Typescript + GatsbyJS + Tailwind CSS web app for creating professional CVs. Use the [demo](https://cool-cv-maker.netlify.app/en/).
 - [NStart](https://github.com/Pixely-Studios/NStart): Una solucion para estudios de videojuegos que necesiten una página para promocionar su estudio, sus productos y su equipo.
 - [Qvolax](https://github.com/ovillafuerte94/qvolax): Live Chat System with Ajax, PHP & MySQL
 - [Threadly Frontend](https://github.com/ragnarok22/threadly): Schedule, manage and create Twitter's threads in a thoughtful way.
