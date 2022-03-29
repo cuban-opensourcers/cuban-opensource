@@ -45,6 +45,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [vpn2go](https://github.com/jadolg/vpn2go): Easy setup and API management for OpenVPN server
 
 ## GraphQL
+
 - [GraphqlController](https://github.com/Develop-Genesis/Graphql-Controller): Library to develop GraphQL apis in .Net
 
 ## Arduino & Pic related
@@ -76,6 +77,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [binarycoffee_bot](https://github.com/dcs-community/binarycoffee_bot) It is the official bot of the Binary Coffee community, it keeps the [Telegram channel](https://t.me/binarycoffeedev) updated with the latest articles
 - [Cuba-Weather_bot](https://github.com/correaleyval/Cuba-Weather_bot) consults weather info from www.redcuba.cu using [cuba-weather](https://github.com/daxslab/cuba-weather).
 - [Covid19 Cuba](https://github.com/correaleyval/covid19cuba_bot) Bot para dar seguimiento a la pandemia de COVID-19 en Cuba.
+- [longPollRobot](https://github.com/M4ss1ck/longPollRobot) sends polls with more than 10 options and they will be divided equally using a command.
 - [PTB Django Cookiecutter](https://github.com/lugodev/ptb-django-cookiecutter) A simple cookiecutter to create Python Telegram bots, wrapped with Django.
 - [web_podcast](https://github.com/rocana95/web-podcast) bot serving ElEnjambre podcasts via Telegram.
 
@@ -94,7 +96,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Portainer Stack Utils](https://github.com/greenled/portainer-stack-utils) CLI client for [Portainer](https://portainer.io/)
 - [restana-static](https://hub.docker.com/r/kyberneees/restana-static) Efficiently serve static files using Node.js and Docker containers: https://itnext.io/restana-static-serving-the-frontend-with-node-js-beyond-nginx-e45fdb2e49cb
 - [SimpleStaticServer](https://github.com/PhaserEditor2D/SimpleStaticServer/) Zero-configuration server for static files. Optimized for HTML5 games and Single Page Applications. Made with Go.
-
 
 ## Frameworks
 
@@ -156,7 +157,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### Engineering Calculations
 
-- [Lubepy](https://github.com/lpozo/lubepy): Lubepy is a library that provides a set of basic calculations that applies to machinery lubrication. It's designed to be use on field to do fast  calculations.
+- [Lubepy](https://github.com/lpozo/lubepy): Lubepy is a library that provides a set of basic calculations that applies to machinery lubrication. It's designed to be use on field to do fast calculations.
 
 ## Repository management
 
@@ -265,6 +266,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [TypeScriptTools](https://github.com/garciaguimeras/TypeScriptTools): tools to aid frontend development with TypeScript and jQuery.
 
 ### PHP
+
 - [BattlefieldMapListParser](https://github.com/lk-KEVIN/BattlefieldMapListParser): A PHP file parser for Battlefield 3 and Battlefield 4 MapList files.
 - [Components](https://github.com/thenlabs/components): Create custom component-based structures.
 - [ClassBuilder](https://github.com/thenlabs/class-builder): Builder for create PHP classes dinamically.
