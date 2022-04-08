@@ -192,7 +192,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [VintageReader](https://github.com/garciaguimeras/VintageReader): console ePub reader
 - [clipu](https://github.com/jadolg/clipu): Yet another tool to share your clipboard amongst devices in your local network.
 - [PsiphonQt](https://github.com/rsanjuan87/PsiphonQt): A Psiphon GUI client builded in Qt
-- [PyLibSuitETECSA](https://github.com/lesclaz/PyLibSuitETESA): Una librería python que te facilita la interacción con los servicios web de ETECSA.
+- [PyLibSuitETECSA](https://github.com/lesclaz/PyLibSuitETESA): A python library that makes it easy for you to interact with ETECSA's web services.
 
 ### Desktop
 
