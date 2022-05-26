@@ -233,6 +233,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [NStart](https://github.com/Pixely-Studios/NStart): Una solucion para estudios de videojuegos que necesiten una página para promocionar su estudio, sus productos y su equipo.
 - [Qvolax](https://github.com/ovillafuerte94/qvolax): Live Chat System with Ajax, PHP & MySQL
 - [Threadly Frontend](https://github.com/ragnarok22/threadly): Schedule, manage and create Twitter's threads in a thoughtful way.
+- [Easypodcasts](https://github.com/easypodcasts/easy_podcasts): Podcasts aggregator and audio compressor for cubans.
 
 ## Web Development
 
