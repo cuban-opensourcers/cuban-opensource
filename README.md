@@ -117,6 +117,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 - [Kindle PyQT Apps](https://github.com/fperdigon/kindle_PyQT_apps): Python2.7 + PyQt4 new and ported apps to Amazon Kindle devices.
 - [Kindle Python PyQtEnv](https://github.com/fperdigon/kindle_Python_PyQt_env): Python2.7 + PyQt4 environment setup for Kindle touch and PaperWhite Amazon jail broken devices.
+- [easy_mvp](https://github.com/R0land013/easy-mvp): Construct MVP PyQt5 application easily.
 
 ## Integrated Development Environments (IDEs)
 
