@@ -235,9 +235,15 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Threadly Frontend](https://github.com/ragnarok22/threadly): Schedule, manage and create Twitter's threads in a thoughtful way.
 - [Easypodcasts](https://github.com/easypodcasts/easy_podcasts): Podcasts aggregator and audio compressor for cubans.
 
+### Browser extensions
+
+- [Zen Twitter](https://github.com/manuelernestog/zen-twitter) Hide Twitter vanity metrics, notifications and distractions. Get it on [Chrome Store](https://chrome.google.com/webstore/detail/zen-twitter/nlkendkabgopehmlmohfbkgkjjdjepnb?hl=en-US)
+
 ## Web Development
 
 ### Javascript
+
+- [click-handler](https://github.com/manuelernestog/click-handler) Vanilla JS Lib for Handle click and dblclick events on same element.
 
 #### Node.js
 
@@ -320,3 +326,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 - [kings-landing](https://github.com/codeadict/kings-landing): A modern, simple and customizable landing page dedicated to early customer acquisition for frugal entrepreneurs. Think it as an open-source alternative to LaunchRock without spending 5 bucks monthly.
 - [pluie](https://github.com/luilver/pluie): A fully functional platform for sending SMS. Ten of the most used SMS-Gateways implemented including Twilio. This project was the former core of [Knales](https://knales.github.io)
+
+### UI Libraries
+
+- [Multi Steps Form Component for Bootstrap](https://github.com/manuelernestog/bootstrap-multi-steps-component) Easily create multi-step forms for Bootstrap
