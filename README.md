@@ -121,7 +121,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Integrated Development Environments (IDEs)
 
-- [Phaser Editor 2D](http://github.com/PhaserEditor2D/PhaserEditor): Fully visual HTML5 2D game development tool ([website](https://phasereditor2d.com)). Games are based on the Phaser framework.
+- [Phaser Editor 2D](https://github.com/PhaserEditor2D/PhaserEditor2D-v3): A complete & visual editor for making HTML5 2D games ([website](https://phasereditor2d.com)). Games are based on the Phaser framework.
 
 ## Internet of Things (IoT)
 
