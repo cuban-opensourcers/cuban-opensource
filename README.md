@@ -224,6 +224,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [Binary Coffee API](https://github.com/dcs-community/dcs-blog): Backend based in strapi of the Binary Coffee community https://binary-coffee.dev
 - [Binary Coffee Frontend](https://github.com/dcs-community/dcs-frontend): Frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
 - [Blog de Ragnarok](https://github.com/ragnarok22/el-blog-de-Ragnarok): Reinier Hernández's [personal blog](https://ragnarok22-blog.netlify.app) serverless.
+- [Blog-Hive](https://github.com/abeltranp9476/hive-blog): A ReactJs front-end to have a blog with your publications in Hive BlockChain. https://abeltranp9476.netlify.app
 - [Bpatri](https://github.com/seiyukaras/bpatri): A search engine in Django to index all the patrominium videos and automate the search for them
 - [Callemonte](https://github.com/sotoplatero/callemonte): Classified search engine in Cuba https://callemonte.com
 - [Covid19 Cuba Data](https://github.com/covid19cubadata/covid19cubadata.github.io): Covid19 - Dashboard for Cuba
