@@ -245,6 +245,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ### Javascript
 
 - [click-handler](https://github.com/manuelernestog/click-handler) Vanilla JS Lib for Handle click and dblclick events on same element.
+- [Formly](https://github.com/dlcastillop/Formly): A JavaScript library for form validation.
 
 #### Node.js
 
@@ -271,6 +272,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 #### React.js
 
 - [react-hooks-toolbox](https://github.com/apenab/react-hooks-toolbox): Collection of reactjs hooks.
+- [PayLink](https://github.com/dlcastillop/paylink): A payment organizer.
 
 #### TypeScript
 
