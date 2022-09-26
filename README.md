@@ -170,6 +170,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 - [Div Software Solutions](https://divengine.com): Open Source SDK (a set of libs, frameworks and tools for software development)
 - [qvapay-go](https://github.com/kenriortega/qvapay-go): Open Source SDK (non-official client for qvapay service with go)
+- [LinkZoneSdk](https://github.com/QAppsSoft/LinkZoneSdk): App and SDK to manage from dotnet the Alcatel LinkZone MW41 device.
 
 ## System
 
