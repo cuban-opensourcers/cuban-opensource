@@ -200,6 +200,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ### Desktop
 
 - [devdocs-desktop](https://github.com/LimbatusDev/devdocs-desktop): Desktop app for [DevDocs](devdocs.io/).
+- [LinkZoneSdk](https://github.com/QAppsSoft/LinkZoneSdk): App and SDK to manage from dotnet the Alcatel LinkZone MW41 device.
 - [link-zone-desktop](https://github.com/raulcr98/link-zone-desktop): Desktop app to easily manage the Alcatel Link Zone.
 - [nx-simplemenu-applet](https://github.com/nx-desktop/nx-simplemenu-applet): Menu Extension for Plasma 5.
 - [prognos](https://github.com/codeshard/prognos): aplicación para monitorear el estado del tiempo en Cuba.
