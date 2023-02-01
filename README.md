@@ -26,7 +26,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [BacheSMS](https://github.com/n3omaster/BacheSMS): Send SMS from Nauta Email.
 - [BankDroid](https://github.com/rlazom/BankDroid): Transfermovil messages' cool interpreter.
 - [Cuba Weather](https://github.com/leynier/cuba-weather-flutter): Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-- [Covid19 Cuba](https://github.com/covid19cuba/covid19cuba-app): Mobile application of Covid19 Cuba Data project implemented with Flutter https://covid19cubadata.github.io
+- [Covid19 Cuba](https://github.com/covid19cuba/covid19cuba-app): Mobile application of Covid19 Cuba Data project implemented with Flutter <https://covid19cubadata.github.io>
 - [daxSmail](https://github.com/daxslab/daxSmail): Email client based on [k9mail](https://github.com/k9mail/k-9) with some changes to simplify configuring Nauta email accounts.
 - [Es WIFI_ETECSA?](https://github.com/daxslab/es_wifi_etecsa): Checks for security vulnerabilities while connecting to WIFI_ETECSA.
 - [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica): "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
@@ -95,7 +95,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 - [DockerImageSave](https://github.com/jadolg/DockerImageSave) Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
 - [Portainer Stack Utils](https://github.com/greenled/portainer-stack-utils) CLI client for [Portainer](https://portainer.io/)
-- [restana-static](https://hub.docker.com/r/kyberneees/restana-static) Efficiently serve static files using Node.js and Docker containers: https://itnext.io/restana-static-serving-the-frontend-with-node-js-beyond-nginx-e45fdb2e49cb
+- [restana-static](https://hub.docker.com/r/kyberneees/restana-static) Efficiently serve static files using Node.js and Docker containers: <https://itnext.io/restana-static-serving-the-frontend-with-node-js-beyond-nginx-e45fdb2e49cb>
 - [SimpleStaticServer](https://github.com/PhaserEditor2D/SimpleStaticServer/) Zero-configuration server for static files. Optimized for HTML5 games and Single Page Applications. Made with Go.
 
 ## Frameworks
@@ -195,7 +195,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [VintageReader](https://github.com/garciaguimeras/VintageReader): console ePub reader
 - [clipu](https://github.com/jadolg/clipu): Yet another tool to share your clipboard amongst devices in your local network.
 - [PsiphonQt](https://github.com/rsanjuan87/PsiphonQt): A Psiphon GUI client builded in Qt
-- [PyLibSuitETECSA](https://github.com/lesclaz/PyLibSuitETESA): A python library that makes it easy for you to interact with ETECSA's web services.
+- [PyLibSuitETECSA](https://github.com/SuitETECSA/PyLibSuitETECSA): A python library that makes it easy for you to interact with ETECSA's web services.
 
 ### Desktop
 
@@ -219,13 +219,13 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Web Applications
 
-- [BacheCubano](https://github.com/n3omaster/bachecubano): Web of Stores, Classifieds and Businesses in Cuba https://www.bachecubano.com
-- [Binary Coffee Admin Frontend](https://github.com/dcs-community/dcs-admin-frontend): Administration frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
-- [Binary Coffee API](https://github.com/dcs-community/dcs-blog): Backend based in strapi of the Binary Coffee community https://binary-coffee.dev
-- [Binary Coffee Frontend](https://github.com/dcs-community/dcs-frontend): Frontend developed in Angular of the Binary Coffee community https://binary-coffee.dev
+- [BacheCubano](https://github.com/n3omaster/bachecubano): Web of Stores, Classifieds and Businesses in Cuba <https://www.bachecubano.com>
+- [Binary Coffee Admin Frontend](https://github.com/dcs-community/dcs-admin-frontend): Administration frontend developed in Angular of the Binary Coffee community <https://binary-coffee.dev>
+- [Binary Coffee API](https://github.com/dcs-community/dcs-blog): Backend based in strapi of the Binary Coffee community <https://binary-coffee.dev>
+- [Binary Coffee Frontend](https://github.com/dcs-community/dcs-frontend): Frontend developed in Angular of the Binary Coffee community <https://binary-coffee.dev>
 - [Blog de Ragnarok](https://github.com/ragnarok22/el-blog-de-Ragnarok): Reinier Hernández's [personal blog](https://ragnarok22-blog.netlify.app) serverless.
 - [Bpatri](https://github.com/seiyukaras/bpatri): A search engine in Django to index all the patrominium videos and automate the search for them
-- [Callemonte](https://github.com/sotoplatero/callemonte): Classified search engine in Cuba https://callemonte.com
+- [Callemonte](https://github.com/sotoplatero/callemonte): Classified search engine in Cuba <https://callemonte.com>
 - [Covid19 Cuba Data](https://github.com/covid19cubadata/covid19cubadata.github.io): Covid19 - Dashboard for Cuba
 - [CovidCuba](https://github.com/llamaret/covidcuba.swlx.info): Website COVID-19 Pandemic Situation in Cuba. From SWL-X Project
 - [CubaVsCovid](https://github.com/lugodev/cuba-vs-covid): An app to organize the printing and distribution of 3D parts for artificial respirators in Cuba, as part of the fight against COVID-19.
@@ -252,7 +252,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [bull-queue-manager](https://github.com/jkyberneees/bull-queue-manager) Minimalist queue manager based on bull.
 - [distributed-eventemitter](https://github.com/jkyberneees/distributed-eventemitter) The ultra fast, distributed (multi process and multi server), STOMP based event emitter for Node.js!
 - [fast-proxy](https://github.com/fastify/fast-proxy) HTTP proxy library. So you can forward your HTTP request to another server.
-- [fast-gateway](https://github.com/jkyberneees/fast-gateway) A Node.js API Gateway for the masses! https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c
+- [fast-gateway](https://github.com/jkyberneees/fast-gateway) A Node.js API Gateway for the masses! <https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c>
 - [fastify-msgpack](https://github.com/kenriortega/fastify-msgpack) Fastify and MessagePack, together at last. Uses @msgpack/msgpack by default.
 - [http-cache-middleware](https://github.com/jkyberneees/http-cache-middleware) HTTP caching made simple!
 - [http-lambda-proxy](https://github.com/jkyberneees/http-lambda-proxy) Proxy HTTP requests to AWS Lambda.
