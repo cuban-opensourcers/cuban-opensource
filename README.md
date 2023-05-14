@@ -201,7 +201,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 - [blue-nauta](https://github.com/R0land013/blue-nauta): Cross-platform application to log in to the nauta network.
 - [devdocs-desktop](https://github.com/LimbatusDev/devdocs-desktop): Desktop app for [DevDocs](devdocs.io/).
-- [link-zone-desktop](https://github.com/raulcr98/link-zone-desktop): Desktop app to easily manage the Alcatel Link Zone.
+- [link-zone-desktop](https://github.com/iocodz/link-zone-desktop): Desktop app to easily manage the Alcatel Link Zone.
 - [nx-simplemenu-applet](https://github.com/nx-desktop/nx-simplemenu-applet): Menu Extension for Plasma 5.
 - [prognos](https://github.com/codeshard/prognos): aplicación para monitorear el estado del tiempo en Cuba.
 - [qvapay-desktop](https://github.com/LimbatusDev/qvapay-desktop): Desktop app for [QvaPay](https://link.ragnarok22.dev/qvapay)
@@ -232,6 +232,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [CovidCuba](https://github.com/llamaret/covidcuba.swlx.info): Website COVID-19 Pandemic Situation in Cuba. From SWL-X Project
 - [CubaVsCovid](https://github.com/lugodev/cuba-vs-covid): An app to organize the printing and distribution of 3D parts for artificial respirators in Cuba, as part of the fight against COVID-19.
 - [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
+- [dota2-api](https://github.com/iocodz/dota2-free-data-api): Basic Dota2 API created using scraping techniques on the liquipedia.net website. Get upcoming matches and tournaments, teams and their roster, items and heroes.
 - [gatsby-cv-maker](https://github.com/M4ss1ck/gatsby-cv-maker) is a Typescript + GatsbyJS + Tailwind CSS web app for creating professional CVs. Use the [demo](https://cool-cv-maker.netlify.app/en/).
 - [NStart](https://github.com/Pixely-Studios/NStart): Una solucion para estudios de videojuegos que necesiten una página para promocionar su estudio, sus productos y su equipo.
 - [Qvolax](https://github.com/ovillafuerte94/qvolax): Live Chat System with Ajax, PHP & MySQL
