@@ -199,6 +199,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### Desktop
 
+- [blue-nauta](https://github.com/R0land013/blue-nauta): Cross-platform application to log in to the nauta network.
 - [devdocs-desktop](https://github.com/LimbatusDev/devdocs-desktop): Desktop app for [DevDocs](devdocs.io/).
 - [link-zone-desktop](https://github.com/raulcr98/link-zone-desktop): Desktop app to easily manage the Alcatel Link Zone.
 - [nx-simplemenu-applet](https://github.com/nx-desktop/nx-simplemenu-applet): Menu Extension for Plasma 5.
