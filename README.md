@@ -23,7 +23,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Android Apps
 
-- [BacheSMS](https://github.com/n3omaster/BacheSMS): Send SMS from Nauta Email.
+- [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
 - [BankDroid](https://github.com/rlazom/BankDroid): Transfermovil messages' cool interpreter.
 - [Cuba Weather](https://github.com/leynier/cuba-weather-flutter): Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
 - [Covid19 Cuba](https://github.com/covid19cuba/covid19cuba-app): Mobile application of Covid19 Cuba Data project implemented with Flutter <https://covid19cubadata.github.io>
