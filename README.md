@@ -84,6 +84,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Catalogs
 
+- [Directorio de Trabajos tech](https://github.com/CarlosZBent/Directorio_trabajos_tech): Directorio de plataformas de trabajo en la industria tecnológica.
 - [FreeLibrary](https://github.com/cjamcu/FreeLibrary): Digital library where users can upload personal and third-party books.
 - [q-guide](https://github.com/leolopez89/Q-Guide): Q-Guide is a frontend to the ETECSA numbers database.
 
@@ -176,6 +177,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [AWGG](https://github.com/Nenirey/AWGG): advanced Wget GUI.
 - [awstail](https://github.com/yorodm/awstail): Like `tail -f` for AWS Logs.
 - [bootify](https://github.com/oneohthree/bootify): Bash script to make bootable USB drives with Windows 7/8/8.1/10 installation files
+- [csv_wizard](https://github.com/CarlosZBent/csv_wizard): Handy extension to Python csv standard library package to divide, compare, clean and create csv files.
 - [cuba-weather](https://github.com/daxslab/cuba-weather): Python3 client for [redcuba.cu](https://www.redcuba.cu) weather API.
 - [cuba-weather-dart](https://github.com/leynier/cuba-weather-dart): Dart client for [redcuba.cu](https://www.redcuba.cu) weather API.
 - [cuota_datos](https://github.com/JosueCarballo/cuota_datos): Cuota Datos is an application and script used to know the mobile data quota status of your Etecsa account from the Windows console or from the Linux console.
@@ -249,6 +251,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 - [click-handler](https://github.com/manuelernestog/click-handler) Vanilla JS Lib for Handle click and dblclick events on same element.
 - [Formly](https://github.com/dlcastillop/Formly): A JavaScript library for form validation.
+- [markdown-to-text-renderer](https://github.com/CarlosZBent/markdown-to-text-renderer): an extension to the Marked library to convert Markdown text to plain text.
 
 #### Node.js
 
