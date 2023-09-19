@@ -23,7 +23,6 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Android Apps
 
-- [SIMple](https://github.com/applifycu/simple): Aplicación Android para la gestión de servicios móviles de ETECSA.
 - [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
 - [BankDroid](https://github.com/rlazom/BankDroid): Transfermovil messages' cool interpreter.
 - [Cuba Weather](https://github.com/leynier/cuba-weather-flutter): Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
@@ -38,6 +37,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp): Android app to check listings in www.porlalivre.com while offline.
 - [Rellama](https://github.com/Nenirey/Rellama): This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 - [ShakeItOff](https://github.com/jadolg/ShakeItOff): Turn off your Android phone screen by shaking it.
+- [SIMple](https://github.com/applifycu/simple): Aplicación Android para la gestión de servicios móviles de ETECSA.
 - [UCIntlm](https://github.com/jadolg/UCIntlm): ntlm proxy (no root required) for Android.
 
 ## API
@@ -53,12 +53,12 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### Libraries
 
-- [NautaClear](https://github.com/applifycu/nautaclear): Librería creada en Java para obtener y eliminar los correos del servidor nauta.
-- [BugSend](https://github.com/applifycu/bugsend): Librería creada en Java para capturar los cierres inesperados de su aplicación y enviarlos por correo electrónico.
 - [Bmux](https://github.com/pavelmc/BMux): Need more buttons in your project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way.
+- [BugSend](https://github.com/applifycu/bugsend): Librería creada en Java para capturar los cierres inesperados de su aplicación y enviarlos por correo electrónico.
 - [FT-857D CAT control](https://github.com/pavelmc/FT857d): A library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects.
 - [Si5351](https://github.com/pavelmc/Si5351mcu): An alternative library for the Si5351 etherkit official one, very small and with more clean signals.
 - [stepperUnipolar](https://github.com/pavelmc/stepperUnipolar): A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!).
+- [NautaClear](https://github.com/applifycu/nautaclear): Librería creada en Java para obtener y eliminar los correos del servidor nauta.
 - [Yatuli](https://github.com/pavelmc/Yatuli): Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer for that.
 
 ### Projects
