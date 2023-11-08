@@ -139,7 +139,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [lager_logentries](https://github.com/codeadict/lager_logentries): Backend for Lager (the Erlan logger) to send logs to [Logentries](https://logentries.com) via Token TCP.
 
 ### Services 
-- [AutoDown] (https://github.com/AnonymousWebHacker/autodown) : Download Antivirus updates as service
+- [AutoDown](https://github.com/AnonymousWebHacker/autodown): Download Antivirus updates as service
 
 ## Multimedia
 
