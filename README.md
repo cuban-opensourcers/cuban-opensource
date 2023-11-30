@@ -298,8 +298,9 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags): Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.
 - [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel): Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
 - [ThenLabsStratusBundle](https://github.com/thenlabs/stratus-bundle): Extends Symfony to the full stack development with integration of StratusPHP.
-- [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em): Wordpress framework supporting Spanish language.
+- [WASP 🐝 • Woew! Another starter plugin](https://github.com/themingisprose/wasp): WASP es un starter plugin que facilita el desarrollo con WordPress. Con él podrás crear tus propios plugins de manera rápida, fácil y sencilla. [Wiki](https://github.com/themingisprose/wasp/wiki).
 - [Wordpress Microplugins](https://es.wordpress.org/plugins/microplugins/): Add functionality to a Worpress website with code from admin interface.
+- [WPPF • The WordPress Post Factory](https://github.com/themingisprose/wppf): No más *"kjndf kjsdfgn jasg"* en tus proyectos en desarrollo. WPPF es un sencillo plugin que te ayudará a generar contenido *falso* en los proyectos que estás desarrollando.
 - [yii2-calendly](https://github.com/daxslab/yii2-calendly): Yii2 extension to include Calendly widgets.
 - [yii2-contactform-module](https://github.com/daxslab/yii2-contactform-module): Yii2 module to include contact forms.
 - [yii2-taggedview](https://github.com/daxslab/yii2-taggedview): Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.
