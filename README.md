@@ -201,13 +201,13 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [suitetecsa-sdk-python](https://github.com/SuitETECSA/suitetecsa-sdk-python): A python library that makes it easy for you to interact with ETECSA's web services.
 
 ### Desktop
-- [visuales-uclv-explorer-desktop](https://github.com/JalexCode/VisualesUCLV-Desktop): Desktop app to explore easily (and offline, dinammically) Visuales UCLV site.
 - [blue-nauta](https://github.com/R0land013/blue-nauta): Cross-platform application to log in to the nauta network.
 - [devdocs-desktop](https://github.com/LimbatusDev/devdocs-desktop): Desktop app for [DevDocs](devdocs.io/).
 - [link-zone-desktop](https://github.com/iocodz/link-zone-desktop): Desktop app to easily manage the Alcatel Link Zone.
 - [nx-simplemenu-applet](https://github.com/nx-desktop/nx-simplemenu-applet): Menu Extension for Plasma 5.
 - [prognos](https://github.com/codeshard/prognos): aplicación para monitorear el estado del tiempo en Cuba.
 - [qvapay-desktop](https://github.com/LimbatusDev/qvapay-desktop): Desktop app for [QvaPay](https://link.ragnarok22.dev/qvapay)
+- [visuales-uclv-explorer-desktop](https://github.com/JalexCode/VisualesUCLV-Desktop): Desktop app to explore easily (and offline, dinammically) Visuales UCLV site.
 - [VPS Etecsa Calculator](https://github.com/ragnarok22/VPSEtecsaCalculator): Simple calculator for ETECSA VPS prices.
 
 ## Tutorials & Challenges
