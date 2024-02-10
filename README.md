@@ -84,6 +84,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [PTB Django Cookiecutter](https://github.com/lugodev/ptb-django-cookiecutter) A simple cookiecutter to create Python Telegram bots, wrapped with Django.
 - [tg-telegraf-bot](https://github.com/M4ss1ck/tg-telegraf-bot) is a simple bot for group management and fun. Live at [@massickRemixBot](https://t.me/massickRemixBot).
 - [web_podcast](https://github.com/rocana95/web-podcast) bot serving ElEnjambre podcasts via Telegram.
+- [Telegram_userbot_advanced_filter](https://github.com/rafaeldtr41/Telegram_userbot_advanced_filter) Userbot que permite reenviar mensajes de diferentes grupos haciendo uso de palabras claves.
 
 ## Catalogs
 
